@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "37526ce59194247105cae04161aafd9564ea6109f41588b4fe7d1c4d638db474"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8e6575da631883cda578678b8b7af555b29f445f5f3231db26d57ae7c9257182"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
+metafile = true
+
+[[files]]
+file = "mods/cozy.pw.toml"
+hash = "94c8f73c7c4d05a765c1af974aa2126f20d56b47caa6932aa6e4fbd0ae2dec37"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "9db7f06dd55021ec4a9d3c104ff694184088f940db16ec39e6eb27d167203033"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "fc62c8ca609288aae3ab5368a40f29bf18f21df923158b8e5a008b45356a33a8"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "3ed4c34774f70f80b5625d154f992a0fd72d8cea7fd0a2287027b9681c662a0b"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "118b2f291407112a7506525a35e68837f67f0f35b1c0f1eea872241d18e494bc"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "0b2d993433625cde097b5fd9afef50db0d65a6ba7a33b1b4ed9ae52816b2b7da"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "b8b38c26445e45e0d041c324b63251331ef60a6740d9a3ffe8eb369884d16c4f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "c4e216a13c42631f580da96e461abc76560d2b720bc5baac170dbf090e13b745"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a8e862ee757fdb46cf593a21f87d080823e781629a0f7614b753101891eafc72"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "6a28e80a529c1eda8b114d48554b38b680a19e592aed811b8af53c3b9d18e3d7"
+metafile = true

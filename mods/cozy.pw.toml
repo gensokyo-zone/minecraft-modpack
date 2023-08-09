@@ -1,0 +1,13 @@
+name = "Cozy"
+filename = "cozy-1.1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bg6Ed4OL/versions/W3wB7VUW/cozy-1.1.0-fabric.jar"
+hash-format = "sha1"
+hash = "36e633ee901f1f69ad85dccb49370e6e31d31cd3"
+
+[update]
+[update.modrinth]
+mod-id = "Bg6Ed4OL"
+version = "W3wB7VUW"
