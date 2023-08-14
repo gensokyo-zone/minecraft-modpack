@@ -1,7 +1,0 @@
-name = "create-fabric"
-filename = "create-fabric-0.5.1-d-build.1145+mc1.20.1.jar"
-
-[download]
-url = "https://public.gensokyo.zone/kat-is-a-cute-girl/create-fabric-0.5.1-d-build.1145%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "113573aa970a017d01b390c3e5c46f1716533636"
