@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1c2f3fef711b854fa819d61ca8b986c81566f3bcbccde9bafcdff843dc7210d8"
+hash = "d79211eec6b5a71070890a0df7b6606ed38c1cf98f31a0acb22c5be1ec4a146d"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "947c19ef9ffa9b71f436fd202d65805dac0b18b4e4e40b3a2296b53a992009d1"
+hash = "ce9e62cc0a82a1cc8c0d92d121560bfc60a5c8be2439df5c90fca36b68d81e67"
 metafile = true
 
 [[files]]

@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lmd52V0r/jei-1.20.1-fabri
 hash-format = "sha1"
 hash = "b9c9a2c7bca88b6942541e5c9b5ec9289512855e"
 
+[option]
+optional = true
+required = false
+
 [update]
 [update.modrinth]
 mod-id = "u6dRKJwZ"
