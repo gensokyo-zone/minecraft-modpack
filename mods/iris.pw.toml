@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/YL57xq9U/versions/MU0L4OZM/iris-mc1.20.1-1.
 hash-format = "sha1"
 hash = "058357d913e5d19a472b93361d817c5e1129b2b9"
 
+[option]
+optional = true
+default = false
+description = "Shaders mod"
+
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
