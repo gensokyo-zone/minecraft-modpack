@@ -1,0 +1,13 @@
+name = "Void Totem"
+filename = "voidtotem-fabric-1.20-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q6eiiQ07/versions/vxRaiz6G/voidtotem-fabric-1.20-3.0.1.jar"
+hash-format = "sha1"
+hash = "2ad3c87fa12efe9322acbaa7370664677b2c1f77"
+
+[update]
+[update.modrinth]
+mod-id = "q6eiiQ07"
+version = "vxRaiz6G"

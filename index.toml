@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "4789940899b14c1a43c106b61b90498547109c21d0eff564eff98ab9e43a0f27"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "7d3e3759802a8804a91078723cee2db7bd817f928af5270db0afc7e34009c6b3"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "e6884ac0de6b859e0bb65182055c3780d4c09dfa5d3240c9c16ba2fb5bb50ac3"
 metafile = true
 
 [[files]]
@@ -11,13 +26,28 @@ hash = "37526ce59194247105cae04161aafd9564ea6109f41588b4fe7d1c4d638db474"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "f9572e3411ba862d58df58b465a3aa33357c621f4346da987b3f616f70baf5ee"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "8e6575da631883cda578678b8b7af555b29f445f5f3231db26d57ae7c9257182"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "7db433b63d957485d7cd5e36b649aae4d97a71ac49c657875b3a05f2c220d1c3"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
@@ -31,13 +61,33 @@ hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b73dc299ac242f3dc0e5cafe29701e3f1632adbe33a41561c17701da28cbf30c"
+metafile = true
+
+[[files]]
 file = "mods/fabricexporter.pw.toml"
 hash = "4637aea36cfa56c6456981c710535cdde86f1006fb4c1ba239fbc759b782cd88"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "2f65e35cd121966a40155af1317b3b5bfd4114240dfcc02bd75d8c8c65c59d52"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "9db7f06dd55021ec4a9d3c104ff694184088f940db16ec39e6eb27d167203033"
+metafile = true
+
+[[files]]
+file = "mods/highspeed-rail.pw.toml"
+hash = "95382a0c08343c4fc75f65f9da73171f16f951703a82a64b3315f472fb0b01c2"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "57ac640e29617d2188942794962edad4946dccc9c5e1544bc522a3abe8dd9490"
 metafile = true
 
 [[files]]
@@ -76,6 +126,11 @@ hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "0b2d993433625cde097b5fd9afef50db0d65a6ba7a33b1b4ed9ae52816b2b7da"
 metafile = true
@@ -86,8 +141,23 @@ hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
 metafile = true
 
 [[files]]
+file = "mods/quartz-elevator.pw.toml"
+hash = "08137554c425aba68a74b49e806ff118692b7a747c8fd7d0922bd1a3c9b2bb12"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "b8b38c26445e45e0d041c324b63251331ef60a6740d9a3ffe8eb369884d16c4f"
+metafile = true
+
+[[files]]
+file = "mods/schpeedy-boats.pw.toml"
+hash = "23227c4f4bcf6ababae60bf5787984d31454b6ebd35de748350e290aa0451131"
 metafile = true
 
 [[files]]
@@ -103,6 +173,16 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "c4e216a13c42631f580da96e461abc76560d2b720bc5baac170dbf090e13b745"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/voidtotem.pw.toml"
+hash = "5fabb342081d359c5ff7c7cee092474af9aba54cd33129964fd1e6a1ae800e78"
 metafile = true
 
 [[files]]
