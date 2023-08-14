@@ -81,6 +81,11 @@ hash = "4637aea36cfa56c6456981c710535cdde86f1006fb4c1ba239fbc759b782cd88"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "a926612a0279c18515bdee95a18757aa5c200759b936129ed794748dc584f000"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "2f65e35cd121966a40155af1317b3b5bfd4114240dfcc02bd75d8c8c65c59d52"
 metafile = true
