@@ -7,6 +7,9 @@ url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Sc0OZ0Ze/iris-mc1.20.1-1.
 hash-format = "sha1"
 hash = "dd9ed30326f239ddc5634e1c55d201b68c7abf9a"
 
+[option]
+optional = true
+
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
