@@ -71,6 +71,11 @@ hash = "b73dc299ac242f3dc0e5cafe29701e3f1632adbe33a41561c17701da28cbf30c"
 metafile = true
 
 [[files]]
+file = "mods/enchant-the-rainbow.pw.toml"
+hash = "504124cc10bc84fe035b8d8c393aa5cf9d9f6f9d0455b63b4833cc6e50fa7011"
+metafile = true
+
+[[files]]
 file = "mods/fabricexporter.pw.toml"
 hash = "4637aea36cfa56c6456981c710535cdde86f1006fb4c1ba239fbc759b782cd88"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/quartz-elevator.pw.toml"
 hash = "08137554c425aba68a74b49e806ff118692b7a747c8fd7d0922bd1a3c9b2bb12"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
 
 [[files]]
