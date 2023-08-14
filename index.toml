@@ -96,6 +96,11 @@ hash = "57ac640e29617d2188942794962edad4946dccc9c5e1544bc522a3abe8dd9490"
 metafile = true
 
 [[files]]
+file = "mods/improved-signs.pw.toml"
+hash = "22712432bbd844d735def98c184149624396839fc26bb673a04ce2d991e8b237"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "b3def581679abd846bc3d5b6de7ff0abd6ce4212fc17390e0ba8455b769c18d9"
 metafile = true
