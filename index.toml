@@ -71,6 +71,11 @@ hash = "504124cc10bc84fe035b8d8c393aa5cf9d9f6f9d0455b63b4833cc6e50fa7011"
 metafile = true
 
 [[files]]
+file = "mods/enderchests.pw.toml"
+hash = "fbeb0d052d6f823422684e3b0e8f1011c120a0e2fbf4a3fac607438e38ed4228"
+metafile = true
+
+[[files]]
 file = "mods/fabricexporter.pw.toml"
 hash = "4637aea36cfa56c6456981c710535cdde86f1006fb4c1ba239fbc759b782cd88"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "2f65e35cd121966a40155af1317b3b5bfd4114240dfcc02bd75d8c8c65c59d52"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
@@ -183,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/schpeedy-boats.pw.toml"
 hash = "23227c4f4bcf6ababae60bf5787984d31454b6ebd35de748350e290aa0451131"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "7efabe838d7dfb1d428ec44ca9758758c49e69e044925d6ff6d0ab24e6e011eb"
 metafile = true
 
 [[files]]
