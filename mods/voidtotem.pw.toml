@@ -1,13 +1,13 @@
-name = "Void Totem"
-filename = "voidtotem-fabric-1.20-3.0.1.jar"
+name = "Void Totem (Forge)"
+filename = "voidtotem-forge-1.19.2-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/q6eiiQ07/versions/vxRaiz6G/voidtotem-fabric-1.20-3.0.1.jar"
 hash-format = "sha1"
-hash = "2ad3c87fa12efe9322acbaa7370664677b2c1f77"
+hash = "97cac41231088fd6af6da25d2919f1f3c2b6ab0a"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "q6eiiQ07"
-version = "vxRaiz6G"
+[update.curseforge]
+file-id = 3929811
+project-id = 449655

@@ -1,4 +1,4 @@
-name = "Arka Modpack"
+name = "Kat Technic"
 author = "Kat"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4a15e98325c69548c25950cc07b92c196052403b36de8d154329a347b646ef65"
+hash = "6c7b559603279dac27c53f91a0019cfd77261e812acc2c2b761548a5781b74e6"
 
 [versions]
-minecraft = "1.20.1"
-quilt = "0.20.0-beta.11"
+forge = "43.2.21"
+minecraft = "1.19.2"

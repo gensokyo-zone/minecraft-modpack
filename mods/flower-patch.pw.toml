@@ -1,0 +1,13 @@
+name = "Flower Patch"
+filename = "FlowerPatch-forge-1.19.2-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e704e4b0e4cbe9f4d637d1247dc7d8270582e794"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4664112
+project-id = 641038
