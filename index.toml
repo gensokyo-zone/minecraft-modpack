@@ -241,6 +241,11 @@ hash = "d9bb29f147df0057bf887cf3e95130d297a1b99789c4ce092f8dea35579e06b9"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "0cd7376a556da36e664fd1e809810def55c831bf87f27d405c2ca7fefc3596d2"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "e8522704a705980fdc5e35a8c8cb4083fa8cd1a20ac358b6e4c5f8a898f071eb"
 metafile = true
