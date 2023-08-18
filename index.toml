@@ -111,6 +111,11 @@ hash = "aff5d172f2ef0d9f9a8e2ce00d5fcc864cafb15dc929d9e95e5d08e295fe7258"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "99192cbb2aa5019f9064cfbe02c069a74b12b060f40a927c1654b2a7680ed4c1"
+metafile = true
+
+[[files]]
 file = "mods/build-guide.pw.toml"
 hash = "75488ed1b683de0b28b42494c984c57da92f96da65f0fdc6457593a7c4596a32"
 metafile = true
@@ -186,6 +191,11 @@ hash = "53d2af852bfd91938b19c1c25a9678ce2cb34f09494514f44fa0e59313e8eab6"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "889195af13fba03b39b2fb0cd57000483a92d89a832484687456d1efdb7e3f08"
 metafile = true
@@ -236,6 +246,16 @@ hash = "3a698f901d9b1e76f8a75b534daa0b865a54cb898c8275ad06bd450387f93d5d"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "9fe80cfb90bc63da9383e79737af22b995222d5622c06a8bc04ecc044598c68c"
+metafile = true
+
+[[files]]
+file = "mods/deep-resonance.pw.toml"
+hash = "26e715d8cccaf61a6076e70b0be299e64696bb82b8647d0906a1e74bd2c3a6d7"
+metafile = true
+
+[[files]]
 file = "mods/dense-mekanism.pw.toml"
 hash = "697e99bdf0cec3472a82603d80dd137958f8f1db9ca155efeb7b2630417c32a7"
 metafile = true
@@ -248,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "d9bb29f147df0057bf887cf3e95130d297a1b99789c4ce092f8dea35579e06b9"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "ebb2927964a249fc923bccc1a8645566fa7a41eb303a47546976efa58326ede8"
 metafile = true
 
 [[files]]
@@ -268,6 +293,21 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "565577c5461a77cfd7bfc000720c8857795b45596ea5f9c8736251aefe328b2c"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser-forge.pw.toml"
+hash = "20d64745f57e0683295ca450d881de8198e5ed1977e19c35e9452b0367c75eca"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
+metafile = true
+
+[[files]]
+file = "mods/enchantmentrequirements.pw.toml"
+hash = "51d47d3f5b57eb2e54828c042034ab62674641ae4a6e6ea3d94d869ee8341ec3"
 metafile = true
 
 [[files]]
@@ -376,6 +416,11 @@ hash = "96cd0a38e31b4ba92bec1b4a5217546c449f6259e878f964b85fe4258ea9bc8b"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
+metafile = true
+
+[[files]]
 file = "mods/immersive-portals-for-forge.pw.toml"
 hash = "2a4ecac37edca3fcadece165b33bf031e4999f09f1cb84f5fa1e6512ef9c978c"
 metafile = true
@@ -423,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/jamd.pw.toml"
 hash = "0656070fb1603916ecc604cf828cd83dff4af303e51927fb1cf24ca8ff3738e9"
+metafile = true
+
+[[files]]
+file = "mods/jaopca.pw.toml"
+hash = "bf96bb1f0aab6f47f682486339e34a3e17e900280a3768376a642684388aa030"
 metafile = true
 
 [[files]]
@@ -521,6 +571,11 @@ hash = "0a05a79fe9dbd7557ebdbbeb7bdb09e12426062dcd5031a7217a74e868595573"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "13e10e5493f19da1737436c19899a26845c9c965f1b00ba30ee48863f44ae324"
 metafile = true
@@ -557,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "827b361fcddfa0bdb84bfa0ebf0e1a38b139804c92aaf9e39218d784e4111fb4"
+hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
 metafile = true
 
 [[files]]
@@ -587,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "7089cdcaf2c1f1b9f6a9a28195c6925cda1af4dce16fd9f6f241d6340d5c8911"
+hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
 metafile = true
 
 [[files]]
@@ -636,6 +691,11 @@ hash = "8bd06b0803e7a21fbe6c287828128665ee753661cd7253f8653df3fd4654804a"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "ec19ef2adf6994632d4fc25b6ed1a2ad1a0c996aa364b78d5aba1bd7b5d74f2e"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "c254ac9be86db15c540102490cb871bd9c5ad06ea4dd70a2c41684eadeeec29b"
 metafile = true
@@ -666,6 +726,11 @@ hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
 
 [[files]]
+file = "mods/spirit.pw.toml"
+hash = "95d37dc71c9152dff422cf9c8e2328d7a999e887a5d8f64c1f1843b1263c5c55"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "bc5a25ff8180829035da14bc01f77de1f033b7e516dd6e5ab03380798452bb90"
 metafile = true
@@ -678,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "989bbedf5e83064ae906b3ae61e1f5ed937bbcaa7cbf0f0053187b7cedf742e4"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "ab60f261a3a4de3c11de7a2156a9ba4946965678c34d4c5e5877e77646cb41ab"
 metafile = true
 
 [[files]]
@@ -748,6 +818,11 @@ metafile = true
 [[files]]
 file = "mods/viescraft-airships.pw.toml"
 hash = "c20dfb48048366ee3c4dd4b68a33033c44a591afe8c71b299b0ee1047a6864ea"
+metafile = true
+
+[[files]]
+file = "mods/vitalize.pw.toml"
+hash = "1a2cbf42c911169150d3ccda20b50bb601804c3b9b3ba9979c3deb4d737cff19"
 metafile = true
 
 [[files]]
