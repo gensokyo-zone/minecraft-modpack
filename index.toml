@@ -251,11 +251,6 @@ hash = "9fe80cfb90bc63da9383e79737af22b995222d5622c06a8bc04ecc044598c68c"
 metafile = true
 
 [[files]]
-file = "mods/deep-resonance.pw.toml"
-hash = "26e715d8cccaf61a6076e70b0be299e64696bb82b8647d0906a1e74bd2c3a6d7"
-metafile = true
-
-[[files]]
 file = "mods/dense-mekanism.pw.toml"
 hash = "697e99bdf0cec3472a82603d80dd137958f8f1db9ca155efeb7b2630417c32a7"
 metafile = true
