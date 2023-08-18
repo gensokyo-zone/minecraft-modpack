@@ -236,6 +236,16 @@ hash = "3a698f901d9b1e76f8a75b534daa0b865a54cb898c8275ad06bd450387f93d5d"
 metafile = true
 
 [[files]]
+file = "mods/dense-mekanism.pw.toml"
+hash = "697e99bdf0cec3472a82603d80dd137958f8f1db9ca155efeb7b2630417c32a7"
+metafile = true
+
+[[files]]
+file = "mods/dense-ores-abundant.pw.toml"
+hash = "8a760690067b3a91e658407bc36f68e22605af1ca22a47a58e0989851518fdf3"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "d9bb29f147df0057bf887cf3e95130d297a1b99789c4ce092f8dea35579e06b9"
 metafile = true

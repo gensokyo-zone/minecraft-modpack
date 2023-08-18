@@ -1,0 +1,13 @@
+name = "Dense Mekanism"
+filename = "densemekanism-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d5197481ae5345b8d9dbf7e25afd6d974dac88a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4569131
+project-id = 870688
