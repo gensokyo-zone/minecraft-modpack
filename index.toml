@@ -466,11 +466,6 @@ hash = "0656070fb1603916ecc604cf828cd83dff4af303e51927fb1cf24ca8ff3738e9"
 metafile = true
 
 [[files]]
-file = "mods/jaopca.pw.toml"
-hash = "bf96bb1f0aab6f47f682486339e34a3e17e900280a3768376a642684388aa030"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
 metafile = true
