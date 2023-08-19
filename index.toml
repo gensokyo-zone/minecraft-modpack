@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
+hash = "0ce4c879b36fa9db66de6fedcbdc5641a547446c245b555c0bce30eac43d1e47"
 metafile = true
 
 [[files]]
@@ -611,6 +611,11 @@ hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "76d74835e1b3d0a9d379017b51726e9d4c120ffbd8b04b9839d8b711f4b206a4"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "13e10e5493f19da1737436c19899a26845c9c965f1b00ba30ee48863f44ae324"
 metafile = true
@@ -718,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "d915c31f85d2d02bb621831a8a733b36ef0e7379303ce8fda6ca1d6baabdd8cb"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "62998084c0a08cdb3f53cc7fe5496b6343a23099ff26dc02fbc85a7914e50828"
 metafile = true
 
 [[files]]
