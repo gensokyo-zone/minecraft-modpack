@@ -1,0 +1,13 @@
+name = "Sneak Through Berries"
+filename = "stb-5.0.0+1.19-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "369b2c2001e81ca899fbb64889a625206368e41d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3835091
+project-id = 324945

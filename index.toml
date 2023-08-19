@@ -91,8 +91,13 @@ hash = "9a43ef0531b9488d545c873b4d1db2f9afd6e7639e0fd729118d07bd2e3cd053"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "47a1026b89f7413b420e78a160fbde8b82925783757e55d4e2024f3da53cdb59"
+metafile = true
+
+[[files]]
 file = "mods/better-tridents.pw.toml"
-hash = "e883420cca3b7d71cc2e84273fd41c0449978d951f0b6dbe3bd1d80f7faab103"
+hash = "e42197ef3bed973e3ddc5c162d88502a66e2443c5b0751c876cb4a64121a070d"
 metafile = true
 
 [[files]]
@@ -251,6 +256,16 @@ hash = "9fe80cfb90bc63da9383e79737af22b995222d5622c06a8bc04ecc044598c68c"
 metafile = true
 
 [[files]]
+file = "mods/delightful.pw.toml"
+hash = "b97731a574e39e3d5b968f31eda09411c55d423377c46a49bd0a8ddebebf61b4"
+metafile = true
+
+[[files]]
+file = "mods/delogger.pw.toml"
+hash = "d8cfa6cc1e38ebb8aa8969af12ba07e9ad5a59e137427bad470028d2cec53fb4"
+metafile = true
+
+[[files]]
 file = "mods/dense-mekanism.pw.toml"
 hash = "697e99bdf0cec3472a82603d80dd137958f8f1db9ca155efeb7b2630417c32a7"
 metafile = true
@@ -311,6 +326,16 @@ hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
 metafile = true
 
 [[files]]
+file = "mods/engineers-decor.pw.toml"
+hash = "86078f7819e53162c8624dc356663198d98c2829b689b4ae39dc52217824a027"
+metafile = true
+
+[[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "662897feede4d32ef55c2bd20cc943a6377ac7ccd6c33d35b0b0adcc7029b10d"
+metafile = true
+
+[[files]]
 file = "mods/experience-obelisk.pw.toml"
 hash = "76bd9aa1f7be2eddfa3495cc4bbcefe20c1bb703e10ec170cfdcc9914d2f1d6a"
 metafile = true
@@ -338,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "7178ff9343de304a0b6a46bb26469b82ae90051f17ea4e5e547bbc86cbf7982f"
 metafile = true
 
 [[files]]
@@ -471,6 +501,11 @@ hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-immersive-multiblocks.pw.toml"
+hash = "56904744466d783e1f30b2c48532f16928e01df110e1c801397d544840abba73"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
@@ -478,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/libx.pw.toml"
 hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "f43d81c21ee75f1ca04865958e5c3da4971f0ff824b82359e85ce5f765a9b92f"
 metafile = true
 
 [[files]]
@@ -528,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "86cebca6d48ae03d07e8ea96b2b02bb2a3eadc1ff7a6f8fde064924723ab6b99"
+metafile = true
+
+[[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "0f37846b5bc38059aad5800e48e22a7d24b915ef553e3241af2b63e9ba864237"
 metafile = true
 
 [[files]]
@@ -588,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "306cbb32a5e21015ea1e6e79f2175bff33213abd18af4403e4b9bc72adf4e28d"
+metafile = true
+
+[[files]]
+file = "mods/player-plates.pw.toml"
+hash = "b65e9dc1c13e50203dfe3ab71e5b19aa264864fe223c9bde1fd277b1b0157b31"
 metafile = true
 
 [[files]]
@@ -701,6 +751,11 @@ hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
 metafile = true
 
 [[files]]
+file = "mods/sneak-through-berries.pw.toml"
+hash = "f2c8cec0e3b14aa2b63541996c82434581d6cc63bdbc86c7c02d547a483ea378"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "1000f9959cc5c55b1842228be2717c145fa63925bd9a35213942a5f3857ff91a"
 metafile = true
@@ -708,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "b1661fd8e4bc9a49aa8412a549a2bf36f43803eef3fdac4dbab629ab211ba088"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "c821058a680c8b5a0cdaa5fcd2f3c0824c1adbe424f13021e08190d26c7d6c3a"
 metafile = true
 
 [[files]]
@@ -806,6 +866,16 @@ hash = "20715dfbf9bcbe046340aa01d4a72e25f357be4442b7f5e36200976140671399"
 metafile = true
 
 [[files]]
+file = "mods/unusual-end.pw.toml"
+hash = "6509ef32e782c0934259dfe156813e5133a097168c6510c77a751967b0172c89"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "2aaf14a9ab21ed03050624d31fb02a6e8c05b56c281561e173a515ebe5b86790"
+metafile = true
+
+[[files]]
 file = "mods/viescraft-airships.pw.toml"
 hash = "c20dfb48048366ee3c4dd4b68a33033c44a591afe8c71b299b0ee1047a6864ea"
 metafile = true
@@ -873,4 +943,9 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "4740df6a935f9109871109a74dc58a004d399931d6ebe3eca44f1c1f08314e8d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eureka-create-airships.pw.toml"
+hash = "223d3e8fafb2ecbff94261b8ff4bbf9c9c820b9295cf7da56f2a11761820a72a"
 metafile = true
