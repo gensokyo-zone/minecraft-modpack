@@ -791,11 +791,6 @@ hash = "95d37dc71c9152dff422cf9c8e2328d7a999e887a5d8f64c1f1843b1263c5c55"
 metafile = true
 
 [[files]]
-file = "mods/structurize.pw.toml"
-hash = "bc5a25ff8180829035da14bc01f77de1f033b7e516dd6e5ab03380798452bb90"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "37bd46aee9f110535261d6ff6c0f1ad7cdc6a38740120896209a92b2f27b20bc"
 metafile = true
