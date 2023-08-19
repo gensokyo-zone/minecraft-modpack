@@ -331,11 +331,6 @@ hash = "86078f7819e53162c8624dc356663198d98c2829b689b4ae39dc52217824a027"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "662897feede4d32ef55c2bd20cc943a6377ac7ccd6c33d35b0b0adcc7029b10d"
-metafile = true
-
-[[files]]
 file = "mods/experience-obelisk.pw.toml"
 hash = "76bd9aa1f7be2eddfa3495cc4bbcefe20c1bb703e10ec170cfdcc9914d2f1d6a"
 metafile = true
@@ -871,11 +866,6 @@ hash = "6509ef32e782c0934259dfe156813e5133a097168c6510c77a751967b0172c89"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "2aaf14a9ab21ed03050624d31fb02a6e8c05b56c281561e173a515ebe5b86790"
-metafile = true
-
-[[files]]
 file = "mods/viescraft-airships.pw.toml"
 hash = "c20dfb48048366ee3c4dd4b68a33033c44a591afe8c71b299b0ee1047a6864ea"
 metafile = true
@@ -943,9 +933,4 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "4740df6a935f9109871109a74dc58a004d399931d6ebe3eca44f1c1f08314e8d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/eureka-create-airships.pw.toml"
-hash = "223d3e8fafb2ecbff94261b8ff4bbf9c9c820b9295cf7da56f2a11761820a72a"
 metafile = true
