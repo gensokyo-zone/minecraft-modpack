@@ -591,11 +591,6 @@ hash = "344c2e73fa3dfd6101d30884e2e03cb012a5f4f05d7a21b2986ad0924ecf084e"
 metafile = true
 
 [[files]]
-file = "mods/multi-piston.pw.toml"
-hash = "c4ce8a94f9b56c5afe792f655030f4a4dcf84de01443d40788d78c410377ac10"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
 metafile = true
