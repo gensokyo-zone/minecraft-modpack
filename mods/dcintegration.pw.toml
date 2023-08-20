@@ -2,6 +2,10 @@ name = "Discord Integration Forge"
 filename = "dcintegration-forge-2.4.7-1.19.1.jar"
 side = "both"
 
+[option]
+optional = true
+required = false
+
 [download]
 hash-format = "sha1"
 hash = "6ad2a7d4aa47a88f923d9f37e7fa4f945cf58263"

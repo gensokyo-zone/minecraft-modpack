@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.pw.toml"
-hash = "9fe80cfb90bc63da9383e79737af22b995222d5622c06a8bc04ecc044598c68c"
+hash = "43d8f8f68ee8237215ec489087182e3d79c2a96c7947c87f82c00eb8f74899c1"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmapforge.pw.toml"
-hash = "0cd7376a556da36e664fd1e809810def55c831bf87f27d405c2ca7fefc3596d2"
+hash = "b4dac1f698790654e4025137fee61ffffac90f3a2a995c4e17148c6a8a10514a"
 metafile = true
 
 [[files]]
@@ -658,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-pumps.pw.toml"
 hash = "f4e107e8e53afd76e0716a66768a47df463867af039878c80278d72fa6b6682a"
+metafile = true
+
+[[files]]
+file = "mods/redstone-arsenal.pw.toml"
+hash = "2f0ed354d58d0fe751ae3b25e35201427454a45102352a460b9ae6c832ec238d"
 metafile = true
 
 [[files]]
