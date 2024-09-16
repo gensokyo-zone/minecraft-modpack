@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "6e485e0dba7a9c705e66f033cc63d0700776720f1278d86a551af9c40551ac17"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "8a04a99ea5053709e729221cf8428d8567e05d63dec61ad3197182b04706e3b9"
 metafile = true
@@ -298,11 +293,6 @@ metafile = true
 [[files]]
 file = "mods/elevatormod.pw.toml"
 hash = "b5f831982eda350230c8dd68ba39aa49f39a56a707562f21f244774f1a1db735"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "8f2637f444c95e98505be6a2f8bf75cd7b5a588aae3776815fd078daf78d6458"
 metafile = true
 
 [[files]]
@@ -826,11 +816,6 @@ hash = "769b61a858ee42b51d1cc82777f7efeb9c8b89f4d89e722bd69b1277d3b9f49a"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "ac974e4fe5aae03fbe1a39aa969ad180b237c1986826c7473459da17fb873264"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "8ec3bba9f2b6ff6170277c1f9ffa5bc232a271065f017fbfc3b9662fd39fd9cb"
 metafile = true
@@ -901,6 +886,16 @@ hash = "113ec289377d6856df1c5b2e706d21ce389d177bb970b7e9c6bfacf987fc8e22"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8a7eb6c4dd2b3bbdfb5ec78bebdcd0b83972ce2c1eca3a0a34cda12239a6a256"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "136af8fc684ffffe3570c0c438a5d05787cf36a390fbb81a133a721f21f457a7"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "e76e4778cad82cfaf0d8ae0742e0691c90bd273d730cf7c4eedb4460934ee2f3"
 metafile = true
@@ -968,11 +963,6 @@ metafile = true
 [[files]]
 file = "mods/theurgy.pw.toml"
 hash = "d2cc8fe1f49fa8021faf6681e8354012cea60bbf2468d52fc08168766a45a7a3"
-metafile = true
-
-[[files]]
-file = "mods/tidal-towns.pw.toml"
-hash = "79cac819073c98e0d5fab7f0cbd848ec6c04992d2a652f47cfadabb8d578d78a"
 metafile = true
 
 [[files]]
