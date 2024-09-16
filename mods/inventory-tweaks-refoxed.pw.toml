@@ -1,13 +1,13 @@
-name = "Inventory Tweaks - ReFoxed"
+name = "Inventory Tweaks: ReFoxed"
 filename = "invtweaks-1.21.0-1.1.4.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "105272795728777c01a646db832ea960e5d48a57"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uqnMI1kq/versions/ea6snE18/invtweaks-1.21.0-1.1.4.jar"
+hash-format = "sha512"
+hash = "c6ec8aa92946e174589956f884f70454bce7a6f36914c3b7e955dd44b35ad6e9d418200e1747baa9038fca2a9120272f55db35f935d4545f46fa9b4a6ea131b1"
 
 [update]
-[update.curseforge]
-file-id = 5610776
-project-id = 976858
+[update.modrinth]
+mod-id = "uqnMI1kq"
+version = "ea6snE18"

@@ -3,11 +3,11 @@ filename = "packetfixer-neoforge-1.4.1-1.21-to-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cb0679abc5d707801e36ec95630a4fd38c52f7f4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/TYRWxAsC/packetfixer-neoforge-1.4.1-1.21-to-1.21.1.jar"
+hash-format = "sha512"
+hash = "5940a59968e784b254ef3a6ffd02f90b7be8af45ae390c3eceb590b147464980a73e764ed3d716f04c7ea28c075525fbdbf1bd3a9f294d73ee137136c1610696"
 
 [update]
-[update.curseforge]
-file-id = 5608962
-project-id = 689467
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "TYRWxAsC"

@@ -1,13 +1,13 @@
 name = "Controlling"
-filename = "Controlling-neoforge-1.21.1-19.0.1.jar"
-side = "both"
+filename = "Controlling-neoforge-1.21.1-19.0.2.jar"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "99edb1b4e4f611c7e48dbca8ee90de66628606e7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/LpSTrZXU/Controlling-neoforge-1.21.1-19.0.2.jar"
+hash-format = "sha512"
+hash = "2c66fc0694d9b7192b7b10de2af9471ed1d180bdb4581234c5bb8942e2b3116ca1b0cb272b426c41cf7eece186f69c5ecf1e72c6b97e3ee5f9748885f998cd98"
 
 [update]
-[update.curseforge]
-file-id = 5623827
-project-id = 250398
+[update.modrinth]
+mod-id = "xv94TkTM"
+version = "LpSTrZXU"

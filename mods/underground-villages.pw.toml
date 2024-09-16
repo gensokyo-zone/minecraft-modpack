@@ -3,11 +3,11 @@ filename = "UndergroundVillages-neoforge-1.21-4.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d52dda19280befda690072508cd5bd17b70dcab6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iQ2U9xwG/versions/p3S7aEaQ/UndergroundVillages-neoforge-1.21-4.0.0.jar"
+hash-format = "sha512"
+hash = "3e118b21b5e8a91356766624f6caccfa137fa0c6a02a3b6d097bf8a268ced178056a877e700d0ee9a0a2c7d265cef3183022e812188ae48a22fa7beb61458a8d"
 
 [update]
-[update.curseforge]
-file-id = 5477727
-project-id = 606989
+[update.modrinth]
+mod-id = "iQ2U9xwG"
+version = "p3S7aEaQ"

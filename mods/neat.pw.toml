@@ -1,13 +1,13 @@
 name = "Neat"
 filename = "Neat-1.21-36-NEOFORGE.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "62b201d605348b945aa78a4008a8f14f3b319979"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Ins7SzzR/versions/JfZHcYju/Neat-1.21-36-NEOFORGE.jar"
+hash-format = "sha512"
+hash = "f4de5a533b01a6bc4285eae170e4a7e9c28650351554f23d60eb354b2246ffcb3957146cf5cde6b94f13a53d9afa9b2d2c6b008e04ee207673ac8c5ab20a31ca"
 
 [update]
-[update.curseforge]
-file-id = 5635938
-project-id = 238372
+[update.modrinth]
+mod-id = "Ins7SzzR"
+version = "JfZHcYju"

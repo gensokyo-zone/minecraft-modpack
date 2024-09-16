@@ -3,11 +3,11 @@ filename = "ToughAsNails-neoforge-1.21.1-10.1.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1eec4f83d172d5df396d1bfba79305a10c2d8f3f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ge1sOdFH/versions/Bd2oTBmF/ToughAsNails-neoforge-1.21.1-10.1.0.8.jar"
+hash-format = "sha512"
+hash = "269f35c6d0396f4c11ccd2bfefb84ce866347e9561d36dfee3bdeaa28c48e02028c1f465bf1a8c12ce4cda0fa30be670c52fb5b222dd677e87db07949b59dac7"
 
 [update]
-[update.curseforge]
-file-id = 5726193
-project-id = 246391
+[update.modrinth]
+mod-id = "ge1sOdFH"
+version = "Bd2oTBmF"

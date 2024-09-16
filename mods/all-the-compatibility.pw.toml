@@ -1,0 +1,13 @@
+name = "All The Compatibility"
+filename = "AlltheCompatibility-1.21-(v.3.1.0-NEO).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08b899dc07840a91503d0b4b09ab8252e32fb981"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5505889
+project-id = 560350

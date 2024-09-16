@@ -3,11 +3,11 @@ filename = "NoChatReports-NEOFORGE-1.21-v2.8.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4eb27301c1eb9291defc29249bac23d88c5317b1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/erQc5yMt/NoChatReports-NEOFORGE-1.21-v2.8.0.jar"
+hash-format = "sha512"
+hash = "0ae015f498b4ffb36b498f7e3e2bc61ff35a9ea03388daee374bc027b53ca427e66b8207435ff79db38d623a83cb902c55fd1040a486d59776b722aa06ea7aec"
 
 [update]
-[update.curseforge]
-file-id = 5441267
-project-id = 634062
+[update.modrinth]
+mod-id = "qQyHxfxd"
+version = "erQc5yMt"

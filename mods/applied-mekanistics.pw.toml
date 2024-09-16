@@ -3,11 +3,11 @@ filename = "Applied-Mekanistics-1.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "00fea4450c859e92313e6ee59e7859b002a542cc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/IiATswDj/versions/7Qy4Ta6b/Applied-Mekanistics-1.6.1.jar"
+hash-format = "sha512"
+hash = "3aa745e47a9573b947842e6f9b87562f5cf94a0f2a110590b7758ea5206d82a219bf198e49bd228d9008becd9d2df11fae19709e70ed0922f162ddff94cc0e88"
 
 [update]
-[update.curseforge]
-file-id = 5664061
-project-id = 574300
+[update.modrinth]
+mod-id = "IiATswDj"
+version = "7Qy4Ta6b"

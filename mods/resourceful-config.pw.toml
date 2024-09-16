@@ -3,11 +3,11 @@ filename = "resourcefulconfig-neoforge-1.21-3.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "18fe0f3f8813675c7c4070bc269f945c7a9d93af"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/ptpZRXNt/resourcefulconfig-neoforge-1.21-3.0.3.jar"
+hash-format = "sha512"
+hash = "ce9099fa464de95103097dcd53f2341a438de208db0889c8ec90001da1f184aef1d9b9d07d9fed49eebee318d07caaef99eb59b17b4ba44efd3e29aeb2f3a8a3"
 
 [update]
-[update.curseforge]
-file-id = 5548748
-project-id = 714059
+[update.modrinth]
+mod-id = "M1953qlQ"
+version = "ptpZRXNt"

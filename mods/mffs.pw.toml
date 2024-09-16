@@ -1,13 +1,13 @@
-name = "Modular Force Field Systems (MFFS)"
+name = "Modular Force Field System"
 filename = "mffs-5.4.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b9d78454ae1fb5403d2a7a3e74a6b702d8c11d90"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Ir9eTVLd/versions/dPVIixcD/mffs-5.4.6.jar"
+hash-format = "sha512"
+hash = "afbdf02b94c97ab8e6b537c38669a185a5501f60553b44d743d6b918bea22403618602ff1cea257515cacd17f3965115bc0ba478493dbb915e012a7dd1281566"
 
 [update]
-[update.curseforge]
-file-id = 5610809
-project-id = 238546
+[update.modrinth]
+mod-id = "Ir9eTVLd"
+version = "dPVIixcD"

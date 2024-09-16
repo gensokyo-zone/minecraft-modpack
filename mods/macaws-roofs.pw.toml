@@ -3,11 +3,11 @@ filename = "mcw-roofs-2.3.1-mc1.21.1neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a8540f58845a8be8b4f4a07834e896353a88127f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/B8jaH3P1/versions/lTu5OeI0/mcw-roofs-2.3.1-mc1.21.1neoforge.jar"
+hash-format = "sha512"
+hash = "9d2d74c1fb3e7154efccffcdfffd0be0e51bdad8df9bd684a09b8d9c43ed72af45f32d35783131d81f16fa82ec52951fd6310d478be171a4fc8dee94f90447ee"
 
 [update]
-[update.curseforge]
-file-id = 5635594
-project-id = 352039
+[update.modrinth]
+mod-id = "B8jaH3P1"
+version = "lTu5OeI0"

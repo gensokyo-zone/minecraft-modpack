@@ -1,13 +1,13 @@
 name = "Utilitarian"
-filename = "utilitarian-1.21.1-0.13.2.jar"
+filename = "utilitarian-1.21.0-0.13.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "43a2f92422f756d85761c1f110020d2ee5ae96ab"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/odpTfrvd/versions/ba2m2Aax/utilitarian-1.21.0-0.13.1.jar"
+hash-format = "sha512"
+hash = "72c3b0e193ef39ef1211861393019c58b7264de6bc196f91f2b254f1e015a573911df4991d434879d02393c5960e2fddeb844953cbe70ed5a88717e6601fb246"
 
 [update]
-[update.curseforge]
-file-id = 5672416
-project-id = 929559
+[update.modrinth]
+mod-id = "odpTfrvd"
+version = "ba2m2Aax"

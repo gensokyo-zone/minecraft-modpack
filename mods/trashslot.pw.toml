@@ -3,11 +3,11 @@ filename = "trashslot-neoforge-1.21.1-21.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f6d53bab7fa71a2efe3159ae28767111d5ad7a7f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/zm1jBGGN/trashslot-neoforge-1.21.1-21.1.1.jar"
+hash-format = "sha512"
+hash = "f017d664f9e248c8cbb94c8c149daf278230aa0fe2b8f52ef37c89e7b4a1a3ebe2c19fee25104eb656985b6c4556e95294f074eca71285b85d6aa41dc7d7e185"
 
 [update]
-[update.curseforge]
-file-id = 5623519
-project-id = 235577
+[update.modrinth]
+mod-id = "vRYk0bv7"
+version = "zm1jBGGN"

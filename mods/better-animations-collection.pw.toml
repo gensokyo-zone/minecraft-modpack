@@ -1,13 +1,13 @@
 name = "Better Animations Collection"
 filename = "BetterAnimationsCollection-v21.0.0-1.21-NeoForge.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "8cf66b1483cdb107d59bd9d9562b9334c0ace45c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OoOVj3J3/versions/TkBeLVd3/BetterAnimationsCollection-v21.0.0-1.21-NeoForge.jar"
+hash-format = "sha512"
+hash = "669715039e650dd4409f0a18c3aafc372c9be9def923a2b999c0866072f7736e8a8801c121ced3b91b2cd1196f460695a01c4e9a614c96827ce69da8ed55bb54"
 
 [update]
-[update.curseforge]
-file-id = 5621574
-project-id = 323976
+[update.modrinth]
+mod-id = "OoOVj3J3"
+version = "TkBeLVd3"

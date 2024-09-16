@@ -3,11 +3,11 @@ filename = "reap-neoforge-1.21.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c57c3bcfdaf55e4719cc785b72631a794e5381fc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NYHbcKK1/versions/oC58wEgs/reap-neoforge-1.21.1-1.1.2.jar"
+hash-format = "sha512"
+hash = "a6a5e16dfe591368d37fa68cb632cedacb9aa4a036d2decbe7ed4ab7b3040c3e38dddded5f083a58a68c1c13c13fcf56d8b5931e97b0d1fa65b4c229c3a46b7f"
 
 [update]
-[update.curseforge]
-file-id = 5608983
-project-id = 244256
+[update.modrinth]
+mod-id = "NYHbcKK1"
+version = "oC58wEgs"

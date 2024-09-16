@@ -3,11 +3,11 @@ filename = "resourcefullib-neoforge-1.21-3.0.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3932664914e4427167351b8cc6f4e1daed86b3c3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/qhtZ1F6o/resourcefullib-neoforge-1.21-3.0.10.jar"
+hash-format = "sha512"
+hash = "96336c973a056be44d23fb968a1d3a7db61d714076192be6424fbbffddd234654de3e14df1a34abf5d6eb1c94ee542fbdff3aed35ecf225e20c392c3cbacc8e9"
 
 [update]
-[update.curseforge]
-file-id = 5681267
-project-id = 570073
+[update.modrinth]
+mod-id = "G1hIVOrD"
+version = "qhtZ1F6o"

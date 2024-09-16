@@ -3,11 +3,11 @@ filename = "serilumsspawnbundle-1.21.1-2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ee23d0dcc129b96838d9c5b5f8091147418786b9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/EJYYAJ4W/versions/ZYv1OTZT/serilumsspawnbundle-1.21.1-2.0.jar"
+hash-format = "sha512"
+hash = "03182e7bbc56ef922c9618fb357c4fee4cfb5a3d68b270068c17c913d7b7afe588caab292712e399d01e676c41e722309cc9978f3639ff20ae4004d23ffcf6d9"
 
 [update]
-[update.curseforge]
-file-id = 5620534
-project-id = 1070249
+[update.modrinth]
+mod-id = "EJYYAJ4W"
+version = "ZYv1OTZT"

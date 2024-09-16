@@ -1,13 +1,13 @@
-name = "GeckoLib"
+name = "Geckolib"
 filename = "geckolib-neoforge-1.21.1-4.6.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "83321271c4fb2d0cf2c297bef4582940ea420622"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/hfGBFl1O/geckolib-neoforge-1.21.1-4.6.5.jar"
+hash-format = "sha512"
+hash = "d6b8e90f23b9410d95481bcfdf770af4ab0c465a03f356850697404c4175a41717eb68de3ee6abb8acff331b8960848142ec13a2c7eedc771158a73090e1fa6a"
 
 [update]
-[update.curseforge]
-file-id = 5726714
-project-id = 388172
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "hfGBFl1O"

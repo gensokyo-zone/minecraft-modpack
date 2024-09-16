@@ -3,11 +3,11 @@ filename = "handcrafted-neoforge-1.21.1-4.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8008013477cc688f14f968fda1e9aa7d812578bc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/wcwzTL8u/handcrafted-neoforge-1.21.1-4.0.2.jar"
+hash-format = "sha512"
+hash = "0be47768ba386a1203e16f3be98cda4e95b3a79cf6156c95b08352efb2cc77bbc8bf35f04e0b97de87b685681be5d41f2a33f95ca061ccf6c5e533151a626ad0"
 
 [update]
-[update.curseforge]
-file-id = 5617252
-project-id = 538214
+[update.modrinth]
+mod-id = "pJmCFF0p"
+version = "wcwzTL8u"

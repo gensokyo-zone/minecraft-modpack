@@ -1,13 +1,13 @@
 name = "FlickerFix"
 filename = "flickerfix-1.21.0.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "8c0c7c55eeffc5e9c5ada17b650c32a4c1cd21da"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KSyWOxT5/versions/OsIttlef/flickerfix-1.21.0.jar"
+hash-format = "sha512"
+hash = "0190d7c1cbc381779c00485a5b8defe8794028f5248d4d6d7da118811014d35f760a2e8c6440bc2c4882da1c07ab294feb9e5058f43548dc19d65baf1c46861d"
 
 [update]
-[update.curseforge]
-file-id = 5424859
-project-id = 431430
+[update.modrinth]
+mod-id = "KSyWOxT5"
+version = "OsIttlef"

@@ -1,13 +1,13 @@
-name = "Easy Magic [Forge & Fabric]"
-filename = "EasyMagic-v21.0.2-1.21-NeoForge.jar"
+name = "Easy Magic"
+filename = "EasyMagic-v21.0.4-1.21-NeoForge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e36194767facf4d7becbe87f569626a929c36d28"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/VRKcGtpj/EasyMagic-v21.0.4-1.21-NeoForge.jar"
+hash-format = "sha512"
+hash = "dd8e95e55c8127aa41d0578269a9dff0fa7f53718f08f91ad69cc697d18e9e79c36cc178adcfe6678bbbe3fc25a7126b03fdb92e9e0bb195138ef4e211b6a3a6"
 
 [update]
-[update.curseforge]
-file-id = 5579851
-project-id = 456239
+[update.modrinth]
+mod-id = "9hx3AbJM"
+version = "VRKcGtpj"

@@ -1,0 +1,13 @@
+name = "Tough as Mekanism"
+filename = "toughasmekanism-1.21-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XQgKOqvL/versions/PXO6sUqT/toughasmekanism-1.21-0.0.3.jar"
+hash-format = "sha512"
+hash = "c50fdf452118d89eb2ed0fce166ffa23a89b47f52b57c2491a639a7dce36a0cc71f0f8b3c873d31b4f8fb830d5fbb91b062edc4072809bed636942165c54b7e7"
+
+[update]
+[update.modrinth]
+mod-id = "XQgKOqvL"
+version = "PXO6sUqT"

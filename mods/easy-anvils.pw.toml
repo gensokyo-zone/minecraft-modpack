@@ -1,13 +1,13 @@
-name = "Easy Anvils [Forge & Fabric]"
-filename = "EasyAnvils-v21.0.4-1.21-NeoForge.jar"
+name = "Easy Anvils"
+filename = "EasyAnvils-v21.0.5-1.21-NeoForge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5ac33dcbc1fbca09c3bb2b5e744cfc17ea953126"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OZBR5JT5/versions/suaVATrC/EasyAnvils-v21.0.5-1.21-NeoForge.jar"
+hash-format = "sha512"
+hash = "f8c740971f4c94d6ff1f54e05930fab3481ee1a383cb2704043d8c1d6c38ef282808cd040807e1949f68e34be87337554cffcf4b50997e742abff99c668d8164"
 
 [update]
-[update.curseforge]
-file-id = 5611430
-project-id = 682567
+[update.modrinth]
+mod-id = "OZBR5JT5"
+version = "suaVATrC"

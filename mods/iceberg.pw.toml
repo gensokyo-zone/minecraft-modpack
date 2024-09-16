@@ -1,13 +1,13 @@
-name = "Iceberg [Neo/Forge]"
+name = "Iceberg"
 filename = "Iceberg-1.21-neoforge-1.2.5.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "f89e9812c7c789c8313dbe659e731c95e739c3fc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5faXoLqX/versions/C9BWI2MC/Iceberg-1.21-neoforge-1.2.5.jar"
+hash-format = "sha512"
+hash = "c57dc0c5863281a0aef88da86f1785f780d24475b25e92a15ec18254ad032354a33042a8a19e145e185e0f09c11bd6d15bcf72ab9dba702667facc5e15b62163"
 
 [update]
-[update.curseforge]
-file-id = 5625109
-project-id = 520110
+[update.modrinth]
+mod-id = "5faXoLqX"
+version = "C9BWI2MC"

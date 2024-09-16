@@ -3,11 +3,11 @@ filename = "serilumsqolbundle-1.21.1-2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "004d7bc03646023d25ca0a445ba65b3136cf2b1c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QC7wpUjM/versions/H0MQwyt2/serilumsqolbundle-1.21.1-2.1.jar"
+hash-format = "sha512"
+hash = "a178eb758e311f6c153c871a080d6d348c3caf9ae8c8fe217fc04d499c7d032bc4ee8e8c41b3b012aeb1c2a54c3ab2a92176369759ee2d236964d65016b35224"
 
 [update]
-[update.curseforge]
-file-id = 5640990
-project-id = 1070246
+[update.modrinth]
+mod-id = "QC7wpUjM"
+version = "H0MQwyt2"

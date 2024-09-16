@@ -3,11 +3,11 @@ filename = "ae2importexportcard-1.21-1.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24151e160a35fe2c21854d9ead6919930807b0b7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qelfSMnn/versions/UcKctWsx/ae2importexportcard-1.21-1.4.0.jar"
+hash-format = "sha512"
+hash = "a1fb2359b5196558722ff1c19ffe02d8efc3d42d5c14f528c806905ce970ef3ae89498d00e7978c20f1412a4ebed04d02b2f62714e678480f50ae3714dd95dbc"
 
 [update]
-[update.curseforge]
-file-id = 5577253
-project-id = 982512
+[update.modrinth]
+mod-id = "qelfSMnn"
+version = "UcKctWsx"

@@ -1,4 +1,4 @@
-name = "Kat's the entire kitchen if not the house pack"
+name = "Kat's Kitchen Pack"
 author = "kittywitch"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9b4bbbf4cabdf105fdcf497d1ddecd0ccc9f6c0d3c9bb579d9e2d9059cf2bb89"
+hash = "d46585a6507341c4bbfa29a9ee64f1d1fc47fadc8190744eead42957c53dca5d"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.54"
+
+[options]
+acceptable-game-versions = ["1.21"]

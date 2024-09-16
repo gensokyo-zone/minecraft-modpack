@@ -1,13 +1,13 @@
 name = "Everything is Copper"
-filename = "everythingcopper-1.21.1-2.3.6.jar"
+filename = "everythingcopper-1.21.0-2.3.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cb03bdd8f2d2cd06a139fca4475c87d0917560cc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/73MCa9Po/versions/O7kn4Bzq/everythingcopper-1.21.0-2.3.5.jar"
+hash-format = "sha512"
+hash = "9bca104cc8913fba55b253b7ad5aa23825ddfa906cbb5b5e99b7036744ad756dd234220f421b2d91d349e5756dc490ff1c5f3cc6d11e4bd807d673562dfe801c"
 
 [update]
-[update.curseforge]
-file-id = 5711432
-project-id = 579545
+[update.modrinth]
+mod-id = "73MCa9Po"
+version = "O7kn4Bzq"

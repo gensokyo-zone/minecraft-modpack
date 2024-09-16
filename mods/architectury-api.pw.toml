@@ -1,13 +1,13 @@
-name = "Architectury API (Fabric/Forge/NeoForge)"
+name = "Architectury API"
 filename = "architectury-13.0.6-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e8716c02a9221cf567d46cdb7d43885bb7e80860"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/zQZVt59v/architectury-13.0.6-neoforge.jar"
+hash-format = "sha512"
+hash = "6c95a0d97323fc0465fc3d2022e1f673ab55fea2523919a09ca4eff1f130afd30f077f30a99f9d79938b3206e1edc116dab436a6f0b1293888556aa7f44305a2"
 
 [update]
-[update.curseforge]
-file-id = 5553800
-project-id = 419699
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "zQZVt59v"

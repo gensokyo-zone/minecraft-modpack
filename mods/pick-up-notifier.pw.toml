@@ -1,13 +1,13 @@
-name = "Pick Up Notifier [Forge & Fabric]"
+name = "Pick Up Notifier"
 filename = "PickUpNotifier-v21.1.0-1.21.1-NeoForge.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "22e4a9dedf6a2e3b16b6eedb2c4b33aab3866d74"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ZX66K16c/versions/xbbkxKdT/PickUpNotifier-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "225412190effa8a0ab6e63c686d2b36a3f1ee8f85038ff02d40cf166a566b6523c57e60beff795d4797cda365c44e5e9917aeb464acca98da1f2f25c83c354a7"
 
 [update]
-[update.curseforge]
-file-id = 5711434
-project-id = 351441
+[update.modrinth]
+mod-id = "ZX66K16c"
+version = "xbbkxKdT"

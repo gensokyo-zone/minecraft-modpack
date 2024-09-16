@@ -3,11 +3,11 @@ filename = "BiomesOPlenty-neoforge-1.21.1-21.1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "468f3348d3445ff2d9e10d9d3f1537134082fcd7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HXF82T3G/versions/hF18Pxn4/BiomesOPlenty-neoforge-1.21.1-21.1.0.3.jar"
+hash-format = "sha512"
+hash = "18c4cc623913d06984f6559a253925cf884b5c12de934dd62d4b2ea4e5a1f34756a6d0ad98fe99c4f52f8a5c26e2205910607bb3f96287f3c49f9d7f5fb9828b"
 
 [update]
-[update.curseforge]
-file-id = 5726211
-project-id = 220318
+[update.modrinth]
+mod-id = "HXF82T3G"
+version = "hF18Pxn4"

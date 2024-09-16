@@ -3,11 +3,11 @@ filename = "ars_additions-1.21.0-21.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8e8cd0805eb04619eab8f6a08bd600c09405bf6f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/GYK6Gk8R/versions/7z2AnyJY/ars_additions-1.21.0-21.0.2.jar"
+hash-format = "sha512"
+hash = "173135bd3e896027508e9a75249746e159c7ae83b54dd2a664d034b47d804e5c9cc31cf2ab25819d1d7ea048ae01bffe3593c622f3615d1e6999ad8285792b59"
 
 [update]
-[update.curseforge]
-file-id = 5698511
-project-id = 974408
+[update.modrinth]
+mod-id = "GYK6Gk8R"
+version = "7z2AnyJY"

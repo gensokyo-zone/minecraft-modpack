@@ -1,0 +1,13 @@
+name = "ElevatorMod"
+filename = "elevatorid-neoforge-1.21.1-1.11.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/GTYY4xJc/elevatorid-neoforge-1.21.1-1.11.3.jar"
+hash-format = "sha512"
+hash = "7393a93c524b8068f0c9faa01d351a5285958ca0b19d9fca777d553951fc828d579066a57931586f8d8988af4c14f9ec9f5c978f09dd641ff2d61ddae6f329d1"
+
+[update]
+[update.modrinth]
+mod-id = "hi2dSXTu"
+version = "GTYY4xJc"

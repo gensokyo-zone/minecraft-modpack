@@ -3,11 +3,11 @@ filename = "supermartijn642corelib-1.1.17i-neoforge-mc1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5157437c7c58fc62313c8a5c38fa3824cc981ac3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rOUBggPv/versions/tZ82tq1U/supermartijn642corelib-1.1.17i-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "97398225c62e275e71ae79bd2c0ce4d2ea84b729ee320ed08351136b66d572f366eff1355199fcf4b61582b2b3e147f8658b3f30e0773b9ffa2904a7ac546ccf"
 
 [update]
-[update.curseforge]
-file-id = 5713682
-project-id = 454372
+[update.modrinth]
+mod-id = "rOUBggPv"
+version = "tZ82tq1U"

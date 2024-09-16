@@ -1,13 +1,13 @@
 name = "Productive Bees"
-filename = "productivebees-1.21.1-13.4.2.jar"
+filename = "productivebees-1.21.0-13.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9c1d3d3f6961b284afa6c051c70da2d86594ee48"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/jH6iiqkd/versions/jQz4OnDZ/productivebees-1.21.0-13.4.0.jar"
+hash-format = "sha512"
+hash = "54ba80e7a5931598ad5e891ca1e20be184c66c30dc7a94a93262d63c218ff5747d9fefa11065db8cc2241e2532919f759bb79f32c72266ef7efa440ef624c634"
 
 [update]
-[update.curseforge]
-file-id = 5674301
-project-id = 377897
+[update.modrinth]
+mod-id = "jH6iiqkd"
+version = "jQz4OnDZ"

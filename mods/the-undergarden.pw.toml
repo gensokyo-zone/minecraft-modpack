@@ -3,11 +3,11 @@ filename = "The_Undergarden-1.21.1-0.8.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f9a6c0fc439bbb64b04d0b6044503a411b9a3515"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Ejfl5qDL/versions/eEiUSFve/The_Undergarden-1.21.1-0.8.21.jar"
+hash-format = "sha512"
+hash = "956248d9b112273b347c8f131804dc670f9f4b9358cdfbd86779079278ed5528c669c9a00409df228cff6b5bd83837fd2a2b068c1c9b930469e60aaca8b681e2"
 
 [update]
-[update.curseforge]
-file-id = 5651032
-project-id = 379849
+[update.modrinth]
+mod-id = "Ejfl5qDL"
+version = "eEiUSFve"

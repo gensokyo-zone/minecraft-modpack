@@ -3,11 +3,11 @@ filename = "productivetrees-1.21.0-0.5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "972648ab990e201fe56db0f182672107d56227e0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BTmup08e/versions/PhWdXyyb/productivetrees-1.21.0-0.5.0.jar"
+hash-format = "sha512"
+hash = "ad04ddaa6cbf5a865189424694f959e8d01013180beb2dd628bee09c944106805941f7f489071c6c1ccb01a79b1685357bdc5e4fb19b897e4fd6e99eeca0247a"
 
 [update]
-[update.curseforge]
-file-id = 5612108
-project-id = 867074
+[update.modrinth]
+mod-id = "BTmup08e"
+version = "PhWdXyyb"

@@ -3,11 +3,11 @@ filename = "mcw-lights-1.1.1-mc1.21.1neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1922bc83e3efa8307d4f24d13b511e26cbd7e41c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/w4an97C2/versions/ACLJCzT6/mcw-lights-1.1.1-mc1.21.1neoforge.jar"
+hash-format = "sha512"
+hash = "b20e8c84f19ae7587ed9de22407df29907b664d3191fbe62f8bf18ed00fddb16c03014df82ba7164808f9cb2a3da0a7a3dc8c01552908f9ed128a180013d2c6c"
 
 [update]
-[update.curseforge]
-file-id = 5635608
-project-id = 502372
+[update.modrinth]
+mod-id = "w4an97C2"
+version = "ACLJCzT6"

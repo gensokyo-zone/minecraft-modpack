@@ -3,11 +3,11 @@ filename = "Measurements-neoforge-1.21-3.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "696bc2b0d230064a2d1d94d2e2f04b390a6aff3f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wLINU2AB/versions/aHHx1SQV/Measurements-neoforge-1.21-3.0.0.jar"
+hash-format = "sha512"
+hash = "d31f01daaf3fb3686b1e40f32425701dd19d70b32ef0bfd06bfb79848937660d3a3268eab26052f700aeec02500a16686cbafc1ede77741eb0d46351bad4f9b4"
 
 [update]
-[update.curseforge]
-file-id = 5435858
-project-id = 478559
+[update.modrinth]
+mod-id = "wLINU2AB"
+version = "aHHx1SQV"

@@ -3,11 +3,11 @@ filename = "MysticalAgriculture-1.21.1-8.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c4ac442fbbd1969dcf9460e4b4d0c46a742e3389"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/C95ReXie/versions/L8u2KKQK/MysticalAgriculture-1.21.1-8.0.6.jar"
+hash-format = "sha512"
+hash = "e2c233b47a58c11087f4492673871df0cd33fbf61137b6e2fb9fd4ac2e028e0399368279a484f11f2d7f3736f5f57f82698bb0d839b3f53944c48532553dc51d"
 
 [update]
-[update.curseforge]
-file-id = 5714854
-project-id = 246640
+[update.modrinth]
+mod-id = "C95ReXie"
+version = "L8u2KKQK"

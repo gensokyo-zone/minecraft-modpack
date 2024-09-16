@@ -3,11 +3,11 @@ filename = "IronJetpacks-1.21.1-8.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "856f5873e077e3a4135fb69073cd7cd383e464f7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DWIEOniQ/versions/avGILAz7/IronJetpacks-1.21.1-8.0.4.jar"
+hash-format = "sha512"
+hash = "d888865110730f14b34810f2b3344832397eed7bb71875f04e6d904387c5645fa885f2464d417a7d602aed122775839bae74db4e0603e244c142a95ce84c7fdf"
 
 [update]
-[update.curseforge]
-file-id = 5713911
-project-id = 284497
+[update.modrinth]
+mod-id = "DWIEOniQ"
+version = "avGILAz7"

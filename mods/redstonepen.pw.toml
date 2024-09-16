@@ -1,0 +1,13 @@
+name = "Redstone Pen"
+filename = "redstonepen-1.21-neoforge-1.11.39.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DwE83ioX/versions/mvaNW9tt/redstonepen-1.21-neoforge-1.11.39.jar"
+hash-format = "sha512"
+hash = "9a62b4dab8d76965d9794c9164c656315dc74ed976565d18625fcae2fc56129ea1e0234dbebd4cfb0151fa9a37c8c20eb300a434f28bf5d61034749186c8cfe0"
+
+[update]
+[update.modrinth]
+mod-id = "DwE83ioX"
+version = "mvaNW9tt"

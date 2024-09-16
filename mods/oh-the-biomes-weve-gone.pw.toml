@@ -3,11 +3,11 @@ filename = "Oh-The-Biomes-Weve-Gone-NeoForge-2.0.2-Beta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ee47d821ac0317d8617d4d6fbf3f4e3233a736f6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/nuQDidfi/Oh-The-Biomes-Weve-Gone-NeoForge-2.0.2-Beta.jar"
+hash-format = "sha512"
+hash = "0765b4934d0aaa46cae9b4cdef1ff0926df4a71fb491a217988daaa5cf37b709aa3acb55ecd29422a27cecd94f9e99c7eb8239d2d68a6ff2db1b2b0a5450bf3d"
 
 [update]
-[update.curseforge]
-file-id = 5712432
-project-id = 1070751
+[update.modrinth]
+mod-id = "NTi7d3Xc"
+version = "nuQDidfi"

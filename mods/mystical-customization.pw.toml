@@ -3,11 +3,11 @@ filename = "MysticalCustomization-1.21.1-6.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "66c36ff839c352e738b615241d1b12f49feab186"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lNK9A4rh/versions/xegEr9LA/MysticalCustomization-1.21.1-6.0.0.jar"
+hash-format = "sha512"
+hash = "a666a3846fabb19b7ce185b286feb6d3316ef058a2d4615489757069d82dba1015e4ea65a7f22882f9f2287da8c50912fec90d83f604c89499fd36c8cd818532"
 
 [update]
-[update.curseforge]
-file-id = 5651037
-project-id = 280441
+[update.modrinth]
+mod-id = "lNK9A4rh"
+version = "xegEr9LA"

@@ -3,11 +3,11 @@ filename = "EvilCraft-1.21.1-neoforge-1.2.56.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "48ac7ba23fe7873745cf266d94a2ae0b09b7c0fb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3ANq2btA/versions/VXKrHesc/EvilCraft-1.21.1-neoforge-1.2.56.jar"
+hash-format = "sha512"
+hash = "2007524df9bacb50c6f654cd0ebf0e972c64852848a225bf36eac59d81217a0258a29b43334326ef464f1dfdc0c6448e7d8b3f7082806d1f2c5042b7861f8183"
 
 [update]
-[update.curseforge]
-file-id = 5707157
-project-id = 74610
+[update.modrinth]
+mod-id = "3ANq2btA"
+version = "VXKrHesc"

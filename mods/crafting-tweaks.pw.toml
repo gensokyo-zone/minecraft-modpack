@@ -3,11 +3,11 @@ filename = "craftingtweaks-neoforge-1.21.1-21.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0dd4acc8303ff31fc72ddb3f6a0e74a72a034743"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/A1ed7hgc/craftingtweaks-neoforge-1.21.1-21.1.2.jar"
+hash-format = "sha512"
+hash = "76486349ad800308ad37b88616b6b8ffb23e5526bd898bfc2a179337aedab2d303452b1924f5a960d44d4d8bfc9cb784fc18417e6ab93c639ca959c4eeebbe87"
 
 [update]
-[update.curseforge]
-file-id = 5644056
-project-id = 233071
+[update.modrinth]
+mod-id = "DMu0oBKf"
+version = "A1ed7hgc"

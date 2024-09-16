@@ -1,13 +1,13 @@
 name = "Terralith"
-filename = "Terralith_1.21_v2.5.4.jar"
-side = "both"
+filename = "Terralith_1.21.x_v2.5.5.jar"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "e76c7b37826574840604442a08c10d2c3bd2c213"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/rEF3UnUI/Terralith_1.21.x_v2.5.5.jar"
+hash-format = "sha512"
+hash = "8a0c06e3380d80f346a2e0ccba24dcd95011152c5110070d2093af35da1fa2c1399ab1fa9b5d466de2ed233ef2d8c99e6804ea9d20e49c886f0f7d5d46cad4ef"
 
 [update]
-[update.curseforge]
-file-id = 5512077
-project-id = 513688
+[update.modrinth]
+mod-id = "8oi3bsk5"
+version = "rEF3UnUI"

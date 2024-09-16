@@ -1,13 +1,13 @@
 name = "FramedBlocks"
-filename = "FramedBlocks-10.1.4.jar"
+filename = "FramedBlocks-10.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9ae55eb767e310793462891f5b9b0235e6f6815c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wbgfS34j/versions/elYMASQf/FramedBlocks-10.1.0.jar"
+hash-format = "sha512"
+hash = "f4e21000c1a51c5c5ca63ec44c78a338fac929cdf26d82c3f8405ae22ce6fcf33c91fe5922855b6f5e1f4f7161f75bb4cdd6ba9bd9bb34b58dc85d16f040e8f5"
 
 [update]
-[update.curseforge]
-file-id = 5629510
-project-id = 441647
+[update.modrinth]
+mod-id = "wbgfS34j"
+version = "elYMASQf"

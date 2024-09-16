@@ -1,0 +1,13 @@
+name = "Traveler's Backpack"
+filename = "travelersbackpack-neoforge-1.21.1-10.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/WWwoPXDx/travelersbackpack-neoforge-1.21.1-10.1.1.jar"
+hash-format = "sha512"
+hash = "21ba1f93c27c4cd28dc1a676810f71d9d95fc4a30051155fca71c8d986a3a0ded36cdcfabfe21ac7fe92d84bf8c70c3d2b30ec345206d60553af080c1c3a0dc9"
+
+[update]
+[update.modrinth]
+mod-id = "rlloIFEV"
+version = "WWwoPXDx"

@@ -3,11 +3,11 @@ filename = "simplemagnets-1.1.11b-neoforge-mc1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "18e02028fc23a8f112259725a72b5f617e16bfca"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/YyNQVpOu/versions/QVBMyLyE/simplemagnets-1.1.11b-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "e1069b735558f00742fcfc08663631ec3e2588210f3c0ede834ae874d5dd1695074183fb0bff794acbd652b9709556cd994405f481e66bc8edf4d79be8cad88f"
 
 [update]
-[update.curseforge]
-file-id = 5627310
-project-id = 394140
+[update.modrinth]
+mod-id = "YyNQVpOu"
+version = "QVBMyLyE"

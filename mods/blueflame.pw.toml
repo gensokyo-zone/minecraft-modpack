@@ -3,11 +3,11 @@ filename = "blueflame-1.21.0-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8daa68346b2d5269e749448fff6b7e66bd85a8c6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8k7QiW7U/versions/UYER40Vq/blueflame-1.21.0-1.1.0.jar"
+hash-format = "sha512"
+hash = "4b2e4987bcbd22d04716fead7994fa6b3b93c118d8adeaa241b306223cffa9fc115c913cd4d740f31c65c7fe8b5e936bfa36c696cff9d6d8af6cac9ca5497b8c"
 
 [update]
-[update.curseforge]
-file-id = 5515792
-project-id = 656551
+[update.modrinth]
+mod-id = "8k7QiW7U"
+version = "UYER40Vq"

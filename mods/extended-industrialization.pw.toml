@@ -3,11 +3,11 @@ filename = "extended-industrialization-1.9.1-beta-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7015c85a59efe3df619116a253b859d235ab6b60"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/CCM0U9YU/versions/slVemiGw/extended-industrialization-1.9.1-beta-1.21.1.jar"
+hash-format = "sha512"
+hash = "1eadc38b4164c4a6a98032e27d27b1d0a96d2b17eb6b13cdcb23f7a338e84423eecf6b3f696848a44422165bf3a6b00eead39625a85c8c334a2ba9db419f02e0"
 
 [update]
-[update.curseforge]
-file-id = 5703063
-project-id = 1068418
+[update.modrinth]
+mod-id = "CCM0U9YU"
+version = "slVemiGw"

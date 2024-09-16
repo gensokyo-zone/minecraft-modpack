@@ -3,11 +3,11 @@ filename = "endermanoverhaul-neoforge-1.21-2.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d517a965a800de68c36c59cf291539095d8efe7b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Lq6ojcWv/versions/yJgJprOk/endermanoverhaul-neoforge-1.21-2.0.0.jar"
+hash-format = "sha512"
+hash = "3b615d303ce2495fa7c7c8a6438f661be361fc541012006e8babce501a38e12eec4e91181ed0baf69146401bd49f61d0280e6e8e5305154943b4bb1194e6713b"
 
 [update]
-[update.curseforge]
-file-id = 5518192
-project-id = 574409
+[update.modrinth]
+mod-id = "Lq6ojcWv"
+version = "yJgJprOk"

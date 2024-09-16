@@ -1,13 +1,13 @@
 name = "Better Advancements"
 filename = "BetterAdvancements-NeoForge-1.21.1-0.4.2.19.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "c9ffd189dddb54d55ea44aaab1aa4222913387b2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/HJ1X6Yzd/BetterAdvancements-NeoForge-1.21.1-0.4.2.19.jar"
+hash-format = "sha512"
+hash = "4eeb6e6280839031ebafffdd155becc648250f584d3dfd15f981f3a6e1805969b563f914fe3a0853807c689949639284179936fe593069049ba47edbafad392b"
 
 [update]
-[update.curseforge]
-file-id = 5662164
-project-id = 272515
+[update.modrinth]
+mod-id = "Q2OqKxDG"
+version = "HJ1X6Yzd"

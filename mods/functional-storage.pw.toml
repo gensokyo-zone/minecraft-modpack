@@ -3,11 +3,11 @@ filename = "functionalstorage-1.21.0-1.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a10c64e23662ca32690b2539b3b04a09a5940723"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/cO40ZIg3/versions/KAT1DWF0/functionalstorage-1.21.0-1.3.2.jar"
+hash-format = "sha512"
+hash = "1a63e79854651790cf846c867ed88c2f7540c804bc9bdbef7074b5333dbe29c7819998739faf5819e24f4da72dcbe21552b8f2b9f2f9e5e9f78b53f569004161"
 
 [update]
-[update.curseforge]
-file-id = 5650319
-project-id = 556861
+[update.modrinth]
+mod-id = "cO40ZIg3"
+version = "KAT1DWF0"

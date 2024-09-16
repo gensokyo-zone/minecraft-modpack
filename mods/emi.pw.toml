@@ -3,11 +3,11 @@ filename = "emi-1.1.13+1.21.1+neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "82a56b47c86d1aeb0f91ed92a9fcc34ee546812f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/ZAv4P8N7/emi-1.1.13%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "7a5f82082f5103873b770d275ab836ef36416c3c97eb8e48116f6da85e033b1e9004329619c123d491410839a2d8524fd2a143d77e7768e2c14f0aeb8a4c0424"
 
 [update]
-[update.curseforge]
-file-id = 5704405
-project-id = 580555
+[update.modrinth]
+mod-id = "fRiHVvU7"
+version = "ZAv4P8N7"

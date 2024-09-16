@@ -3,11 +3,11 @@ filename = "aeinfinitybooster-neoforge-1.21-1.0.1.38.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "15a0ef0cbb634019ffd7a40e604401901286da22"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/VQhDBNs8/versions/6dK6lGaF/aeinfinitybooster-neoforge-1.21-1.0.1.38.jar"
+hash-format = "sha512"
+hash = "2222bdad377ffae91e259af3e7986b458d17a520d84fc0c8eed3d23bf96f6bb08d849cce263bf3ac5bebd48800f175bb362703bdffe36e8c5cee88859bdc3f7e"
 
 [update]
-[update.curseforge]
-file-id = 5537358
-project-id = 559313
+[update.modrinth]
+mod-id = "VQhDBNs8"
+version = "6dK6lGaF"

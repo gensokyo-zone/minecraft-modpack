@@ -3,11 +3,11 @@ filename = "DimStorage-1.21-9.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3ef61055884cdc3347e491e9d8989a641c8029b0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8lnmIJH7/versions/aAcUyqpU/DimStorage-1.21-9.0.1.jar"
+hash-format = "sha512"
+hash = "53c99d46af80fd4dac63d49a1f3549e68e4ac6156057ce540cccd9fb86942b753b19abd8ad04cb39fa2fef2c74af596806a32026aba2560ba0a394bcf1d13b50"
 
 [update]
-[update.curseforge]
-file-id = 5496314
-project-id = 353882
+[update.modrinth]
+mod-id = "8lnmIJH7"
+version = "aAcUyqpU"

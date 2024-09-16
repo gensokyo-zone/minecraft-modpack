@@ -1,13 +1,13 @@
 name = "Beautified Chat [Client]"
 filename = "beautifiedchatclient-1.21.1-2.6.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "5c1f024f98261c00a72617919657b370e9ba30a0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/mtIxmNw5/versions/Fyj9kAJx/beautifiedchatclient-1.21.1-2.6.jar"
+hash-format = "sha512"
+hash = "ba941878866d259dd8cebd84775b6b11b3136b1808b3fb23f33187dd5ac023d0515eb419e26c5b445cf9d7a9caad7d5ca997567df63ff10f260e1774dee825e4"
 
 [update]
-[update.curseforge]
-file-id = 5609833
-project-id = 514797
+[update.modrinth]
+mod-id = "mtIxmNw5"
+version = "Fyj9kAJx"

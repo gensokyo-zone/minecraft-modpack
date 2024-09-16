@@ -3,11 +3,11 @@ filename = "titanium-1.21-4.0.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c68b1bfba28164cbaa78b549eb9e3ba31b472164"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1Ro7m06l/versions/7fws1VBb/titanium-1.21-4.0.21.jar"
+hash-format = "sha512"
+hash = "06dc5081ff7588690a52932c5a4aa00bc058fe5e346bc32fd046a3de98c2bb61c3254130d7153fed5c458ac5be9b68fc7144c09f6a00ac3682be04e445568dca"
 
 [update]
-[update.curseforge]
-file-id = 5726400
-project-id = 287342
+[update.modrinth]
+mod-id = "1Ro7m06l"
+version = "7fws1VBb"

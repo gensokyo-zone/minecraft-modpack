@@ -1,13 +1,13 @@
-name = "Comforts (Fabric/Forge/Quilt)"
-filename = "comforts-neoforge-9.0.1+1.21.jar"
+name = "Comforts"
+filename = "comforts-neoforge-9.0.2+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a6354b2212d9a773d927863d5cce7d2aa8e44f09"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/Amo1EWsq/comforts-neoforge-9.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "4fc44162be97ca24f5946f7c717cf623c5561e3f0fc834e18700d7106a1b6e5372ef3e551516aeb1314098db77308734a25651ff4e7cbfc64411d76a4ffae3d7"
 
 [update]
-[update.curseforge]
-file-id = 5579886
-project-id = 276951
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "Amo1EWsq"
