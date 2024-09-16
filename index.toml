@@ -276,11 +276,6 @@ hash = "6fd503d209f38137d3c5cbe1191c0e9fd401622f86b051d48b49427000d1ede7"
 metafile = true
 
 [[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-hash = "af33206afd40a23aeb57f2ef3ef958c3d8078dff52d967017bede83263e445c1"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "b8474d12104c3c27356d6b0406a64abe58c2bbac6eabe6df31b7c6f543a33b9d"
 metafile = true
