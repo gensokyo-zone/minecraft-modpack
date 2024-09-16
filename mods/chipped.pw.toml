@@ -1,0 +1,13 @@
+name = "Chipped"
+filename = "chipped-neoforge-1.21.1-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e89b34feccc9961fd2c2727518b66fac1c0bacd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5681013
+project-id = 456956

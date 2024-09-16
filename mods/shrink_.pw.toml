@@ -1,0 +1,13 @@
+name = "Shrink."
+filename = "shrink-2.0.0.43-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da792b511585bc55557d652219e9358eed711366"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5550606
+project-id = 426386

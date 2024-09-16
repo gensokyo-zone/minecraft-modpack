@@ -1,0 +1,13 @@
+name = "Serilum's RPG Bundle"
+filename = "serilumsrpgbundle-1.21.1-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bafa5362ed503ffefb126492433bec06c6a8ba69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5620537
+project-id = 1070247

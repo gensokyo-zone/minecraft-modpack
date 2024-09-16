@@ -1,0 +1,13 @@
+name = "Serilum's QoL Bundle"
+filename = "serilumsqolbundle-1.21.1-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "004d7bc03646023d25ca0a445ba65b3136cf2b1c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5640990
+project-id = 1070246

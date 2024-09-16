@@ -1,0 +1,13 @@
+name = "Terralith"
+filename = "Terralith_1.21_v2.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e76c7b37826574840604442a08c10d2c3bd2c213"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5512077
+project-id = 513688

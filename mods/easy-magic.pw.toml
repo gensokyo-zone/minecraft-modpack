@@ -1,0 +1,13 @@
+name = "Easy Magic [Forge & Fabric]"
+filename = "EasyMagic-v21.0.2-1.21-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e36194767facf4d7becbe87f569626a929c36d28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5579851
+project-id = 456239

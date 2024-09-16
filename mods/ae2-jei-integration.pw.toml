@@ -1,0 +1,13 @@
+name = "AE2 JEI Integration"
+filename = "ae2jeiintegration-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "231268198cda3aea2b6edf63d7911e7fbb26ee09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5663887
+project-id = 1074338

@@ -1,0 +1,13 @@
+name = "Resourceful Config"
+filename = "resourcefulconfig-neoforge-1.21-3.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18fe0f3f8813675c7c4070bc269f945c7a9d93af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5548748
+project-id = 714059

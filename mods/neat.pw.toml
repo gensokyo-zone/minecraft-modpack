@@ -1,0 +1,13 @@
+name = "Neat"
+filename = "Neat-1.21-36-NEOFORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62b201d605348b945aa78a4008a8f14f3b319979"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5635938
+project-id = 238372

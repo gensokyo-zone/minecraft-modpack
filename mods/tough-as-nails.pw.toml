@@ -1,0 +1,13 @@
+name = "Tough As Nails"
+filename = "ToughAsNails-neoforge-1.21.1-10.1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1eec4f83d172d5df396d1bfba79305a10c2d8f3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5726193
+project-id = 246391

@@ -1,0 +1,13 @@
+name = "Serilum's Customization Bundle"
+filename = "serilumscustomizationbundle-1.21.1-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "390dbd4be6778ae13b9e2794c9dac82a25824c5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5632994
+project-id = 1070244

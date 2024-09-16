@@ -1,0 +1,13 @@
+name = "Serilum's Client Bundle"
+filename = "serilumsclientbundle-1.21.1-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e44748aa440b23537a0155e8565e71a0a317f36"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5620548
+project-id = 1070241

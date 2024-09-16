@@ -1,0 +1,13 @@
+name = "Blue Flame Burning"
+filename = "blueflame-1.21.0-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8daa68346b2d5269e749448fff6b7e66bd85a8c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5515792
+project-id = 656551

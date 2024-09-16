@@ -1,0 +1,13 @@
+name = "Serilum's Extra Bundle"
+filename = "serilumsextrabundle-1.21.1-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c4bcc60190a3a93aa5b9c1f8c9dcad01386cf0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5632991
+project-id = 1070245

@@ -1,0 +1,13 @@
+name = "CorgiLib"
+filename = "Corgilib-NeoForge-1.21.1-5.0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a72aff17cf0474238017bec0cac0805712819f05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5691275
+project-id = 693313

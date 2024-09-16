@@ -1,0 +1,13 @@
+name = "Crafting Tweaks"
+filename = "craftingtweaks-neoforge-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0dd4acc8303ff31fc72ddb3f6a0e74a72a034743"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5644056
+project-id = 233071
