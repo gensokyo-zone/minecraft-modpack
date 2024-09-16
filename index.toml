@@ -826,36 +826,6 @@ hash = "a166493388d87f20368bf77ebb7c084da8d326d530187eb9db64964559985015"
 metafile = true
 
 [[files]]
-file = "mods/serilums-client-bundle.pw.toml"
-hash = "149da7d5dc787959e84da3d191201cc8adab083e6de0be8eb8914f8b2238cf8a"
-metafile = true
-
-[[files]]
-file = "mods/serilums-customization-bundle.pw.toml"
-hash = "0e5bf77ab3ae00a3fe75f6f62266b2555b2e18feb44a7a2030f5cf90380cb52f"
-metafile = true
-
-[[files]]
-file = "mods/serilums-extra-bundle.pw.toml"
-hash = "191e571d4ff1fd3768936233f82c1d1474fc4969909edea8d8fce740dabd1d33"
-metafile = true
-
-[[files]]
-file = "mods/serilums-qol-bundle.pw.toml"
-hash = "1c8cd34c4ce3866814549bcc4f8e5fe25b126abe2251adb19bb0a4aeb286a1e1"
-metafile = true
-
-[[files]]
-file = "mods/serilums-rpg-bundle.pw.toml"
-hash = "4cdcf73575c9ab5fca07f99e1a7374b2ff3b104567042a6a2e88687ce272d852"
-metafile = true
-
-[[files]]
-file = "mods/serilums-spawn-bundle.pw.toml"
-hash = "6ee650efe88551786789f19c9c0c84dc1bb8779423df0404626ff99b30ac26f6"
-metafile = true
-
-[[files]]
 file = "mods/showcase-item.pw.toml"
 hash = "8c989337fe51b10920829fc4e3e19fb226d7dbf0ab8bc61a0d2d268098afd960"
 metafile = true
@@ -998,11 +968,6 @@ metafile = true
 [[files]]
 file = "mods/underground-villages.pw.toml"
 hash = "06de11824252f4bc21c05d672f9a0cc82946bab51cb7386c85e656732c160638"
-metafile = true
-
-[[files]]
-file = "mods/utilitarian.pw.toml"
-hash = "58b1d7b39875fc7011ac0278c8e5a3b6a6b33575a9dad40cbb14392479536247"
 metafile = true
 
 [[files]]
