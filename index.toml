@@ -461,6 +461,11 @@ hash = "aeac3ce42b7c007f9e81a8b4ad8756d37ee825a76bf022cf0a7b4eb742632b7a"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "e3016069e2b295051af904e3eeac0def4ff715043897dae62f4f1d0a7d0e8beb"
+metafile = true
+
+[[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "d0035d56a3272b636e962e5bf0d72842a2c6b1390c7895cef454a62a08f6d864"
 metafile = true
@@ -853,6 +858,21 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "113ec289377d6856df1c5b2e706d21ce389d177bb970b7e9c6bfacf987fc8e22"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8a7eb6c4dd2b3bbdfb5ec78bebdcd0b83972ce2c1eca3a0a34cda12239a6a256"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "f555101f91b60b94b36a2cb7f3450b6490f4d276b13871f142836529f69f71e1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "136af8fc684ffffe3570c0c438a5d05787cf36a390fbb81a133a721f21f457a7"
 metafile = true
 
 [[files]]
