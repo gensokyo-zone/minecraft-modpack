@@ -911,11 +911,6 @@ hash = "9a92e97dcaf1e7166526116b6d5d8ca9e9cf2c6b366044f0776afe9bc2e6a0b3"
 metafile = true
 
 [[files]]
-file = "mods/the-bumblezone.pw.toml"
-hash = "5a1192f55aa9cfbf98d555e0078519ced134a47ad509f92f6abccf60adef2dcb"
-metafile = true
-
-[[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "508a5d5353167af6bc29a8ed2cb04d24932e376c5f906273c47723f96cd95c8b"
 metafile = true
