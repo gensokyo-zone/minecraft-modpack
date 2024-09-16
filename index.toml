@@ -1044,3 +1044,13 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "a8414bc31d45eccb086b05ab11b2f47e426f5e355802c733aa46ea13705d7db4"
 metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "759dce03f3fb55e8091af285fca99da9e40bb3665ea051ed14bbc665c6f00f09"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "40f83616a61e0af5e807e2ef1df03958e65234d82d2ac310d9c21fd82205df02"
+metafile = true

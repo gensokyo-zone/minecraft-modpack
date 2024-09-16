@@ -1,0 +1,13 @@
+name = "Faithful 32x"
+filename = "Faithful 32x - 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w0TnApzs/versions/SBLjnb1v/Faithful%2032x%20-%201.21.zip"
+hash-format = "sha512"
+hash = "8d8a07bbbb61fd4cd3fc35973a91207fbb4945f50b7ef425ca0c410bd5bfb2720313a3b76056d815344dd2d3c5a2d38f733be9f699c0849bc5bc05810bcf9dbc"
+
+[update]
+[update.modrinth]
+mod-id = "w0TnApzs"
+version = "SBLjnb1v"
