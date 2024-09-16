@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "a5f47f404ad14742106c8d32b716e88850bf3686b05a5966b5a4e203b4681d22"
+hash = "d624e47102fda7966975ac27ef3058d71687f8df31e8cbaf7d58b10d3bb56649"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "057699109c77f19d6df77088998f98a9a694fdb67c5596f250a28ee829729786"
+hash = "113ec289377d6856df1c5b2e706d21ce389d177bb970b7e9c6bfacf987fc8e22"
 metafile = true
 
 [[files]]
