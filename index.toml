@@ -1054,3 +1054,8 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "40f83616a61e0af5e807e2ef1df03958e65234d82d2ac310d9c21fd82205df02"
 metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "741310902975c4cf1586fd2b6bf0ae267e8b3fbaee66af068e54be7e077e07d3"
+metafile = true
