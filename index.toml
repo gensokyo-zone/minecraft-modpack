@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "6e485e0dba7a9c705e66f033cc63d0700776720f1278d86a551af9c40551ac17"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "8a04a99ea5053709e729221cf8428d8567e05d63dec61ad3197182b04706e3b9"
 metafile = true
