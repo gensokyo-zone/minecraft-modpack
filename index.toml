@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
-hash = "d6edbe9346b0b9c7e323c3508f53b6452333fa57c94a4805186fa45fd4993119"
+hash = "2221d2758ab24645c9c42a152a8dd6ad7148352c0e6e4ed6c0738c300e7398d6"
 metafile = true
 
 [[files]]
@@ -363,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "f2e8e0b4cffafaea234a01b4f93bb45a9775bd0c31639f9dfb7144bf401f4f32"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e3f21351db825d9ae44f37867b752fb26aee629a4e02a4f30a89f567114989cd"
 metafile = true
 
 [[files]]
@@ -453,11 +458,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
 hash = "aeac3ce42b7c007f9e81a8b4ad8756d37ee825a76bf022cf0a7b4eb742632b7a"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "e3016069e2b295051af904e3eeac0def4ff715043897dae62f4f1d0a7d0e8beb"
 metafile = true
 
 [[files]]
@@ -796,11 +796,6 @@ hash = "9d2457ea3de9168d18678c3f1e8963601e5a9f20c21944c34e300b6bd8852337"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "1cb3dbee60e11c4db77abda4a65327b11ea99e4a1788400aa69670301d4d10ea"
-metafile = true
-
-[[files]]
 file = "mods/repeatable-trial-vaults.pw.toml"
 hash = "a6529f25c9dd7a5b58ccd346159cb3f34fa31fb70e51dcb37461815819ace0e4"
 metafile = true
@@ -888,16 +883,6 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "113ec289377d6856df1c5b2e706d21ce389d177bb970b7e9c6bfacf987fc8e22"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "8a7eb6c4dd2b3bbdfb5ec78bebdcd0b83972ce2c1eca3a0a34cda12239a6a256"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "136af8fc684ffffe3570c0c438a5d05787cf36a390fbb81a133a721f21f457a7"
 metafile = true
 
 [[files]]
@@ -1082,5 +1067,5 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.pw.toml"
-hash = "f8bb64efe9c33cedcf2a0e4e115007f06b770cbd529407891b553c96bf9c214e"
+hash = "a8414bc31d45eccb086b05ab11b2f47e426f5e355802c733aa46ea13705d7db4"
 metafile = true
