@@ -611,11 +611,6 @@ hash = "81a9dc971cce6ea23e7c71b80580ba4725333487698881f66b028ef70065a7a3"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "1b55fda1a25280c03739d56ecf24bf1a36c61724536aef9eb136edf375788aaf"
-metafile = true
-
-[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "9e5b3b060f90c57f681caba15714f0d2f5b88e86ab998809bed54fb3359df555"
 metafile = true
