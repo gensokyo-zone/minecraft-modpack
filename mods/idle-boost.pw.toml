@@ -1,0 +1,13 @@
+name = "Idle Boost"
+filename = "idle_boost-neoforge-1.1.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/REC6ythZ/versions/S47lYPKw/idle_boost-neoforge-1.1.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "e126b22ba583d79fc4cdac513ad291a364cf2fa695e541731edc1990c14744aecb64de18e79c543aab1d2fd2accce8ad33141fc61c503b426e6f1a7b0731df27"
+
+[update]
+[update.modrinth]
+mod-id = "REC6ythZ"
+version = "S47lYPKw"

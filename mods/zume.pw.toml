@@ -1,0 +1,13 @@
+name = "Zume"
+filename = "zume-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o6qsdrrQ/versions/MfArQnMJ/zume-1.1.2.jar"
+hash-format = "sha512"
+hash = "d4faf8628a732682a434163c07cdd91bda5ada6cfd6a1e152f2612de7ebc1659754a7467c9620a4e368f0176a3e326f5b560e3fa4767d4518e26ffb6c545d289"
+
+[update]
+[update.modrinth]
+mod-id = "o6qsdrrQ"
+version = "MfArQnMJ"

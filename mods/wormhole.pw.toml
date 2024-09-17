@@ -1,0 +1,13 @@
+name = "Wormhole (Portals)"
+filename = "wormhole-1.1.16-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6nHZTTjQ/versions/LXDo4pov/wormhole-1.1.16-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "7fd7cac36cd993ce4da4d5f5ac071d18f14ee54d976b57b3178aa80728fe4c1dc0159b667e4992e775e38512104cef026443ce63ad4ac4a39b9aa2029a4f9048"
+
+[update]
+[update.modrinth]
+mod-id = "6nHZTTjQ"
+version = "LXDo4pov"
