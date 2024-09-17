@@ -776,6 +776,11 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "bb3391b3ba242757d548ebca8c293cd199ef77d01599fdd6258eb752ac9ddab8"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "2ddc6d2b1f9e8b5884054053dbbfabd531eb2a26f0ce9b9c4e170279a9a600a0"
 metafile = true
@@ -1193,6 +1198,11 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "7ae6dfdee45b754afc4a36466461a4f6fead101c6a5268eaade54ce0e56f1f4e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-nether.pw.toml"
+hash = "6cdc5f542733933d82ef42f9c54ed7af4b92b9e3d2c264c84008dbf6aec04975"
 metafile = true
 
 [[files]]
