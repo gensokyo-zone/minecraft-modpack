@@ -1201,11 +1201,6 @@ hash = "7ae6dfdee45b754afc4a36466461a4f6fead101c6a5268eaade54ce0e56f1f4e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-nether.pw.toml"
-hash = "6cdc5f542733933d82ef42f9c54ed7af4b92b9e3d2c264c84008dbf6aec04975"
-metafile = true
-
-[[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
 hash = "759dce03f3fb55e8091af285fca99da9e40bb3665ea051ed14bbc665c6f00f09"
 metafile = true
