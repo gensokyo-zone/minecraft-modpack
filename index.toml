@@ -836,6 +836,11 @@ hash = "913bff5c93d76ab287916d4f2e0844abbd7124f3dcc84d1c242e85f114e92066"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "87fb28047d648087f2fe4891ddf9d3c394b9c5c29eaf4f3970fb7c32520e6fcf"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "825ab516755169dbca26e421c0a0d2e6b680ff750ff831988f168eca5130d437"
 metafile = true
