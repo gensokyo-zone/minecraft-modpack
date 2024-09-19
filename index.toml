@@ -306,11 +306,6 @@ hash = "8d96be82343074bd75788503cef8e6a84cbc1eb1da4e397a179055e311d3f7d1"
 metafile = true
 
 [[files]]
-file = "mods/easy-anvils.pw.toml"
-hash = "b8474d12104c3c27356d6b0406a64abe58c2bbac6eabe6df31b7c6f543a33b9d"
-metafile = true
-
-[[files]]
 file = "mods/easy-elytra-takeoff.pw.toml"
 hash = "f2562fee587dc317235a1e93e94bf893ae84b5c6c37fd083b577dc51b6d99cc4"
 metafile = true
