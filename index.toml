@@ -446,11 +446,6 @@ hash = "37fc31f11c9fd758cc74e589d88685dc633b893213fb79c309c9ea546b6dd30e"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "14c6ab07626309bc3d433f88d5c00b7ebeb5acc1771fd1e85e70059eb851a89b"
-metafile = true
-
-[[files]]
 file = "mods/gui-clock.pw.toml"
 hash = "dc02a5cc82dfa870ef3db0c8fe9d6686ca7d05ab6efd0b53a779ea2430e50a4a"
 metafile = true
@@ -1193,6 +1188,11 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "5803a1b3a3ce97cfc6b2478004024ccb109f2e9312ebf76ab261b2a19fee5b23"
 metafile = true
 
 [[files]]
