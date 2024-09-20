@@ -186,6 +186,11 @@ hash = "78bcb8f63d42d49951bd1780c952a6d2d826c8658049bd9d2174fd82e6f51114"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "3af21ff934fe7690a43c8173ddfe1b4df788d1dab5f801013ac56f2e692c4c4a"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "34c5daafb44e7cddbd304989b9af66067833c1ae19a5bef1c667355812823821"
 metafile = true
