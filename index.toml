@@ -331,11 +331,6 @@ hash = "b5f831982eda350230c8dd68ba39aa49f39a56a707562f21f244774f1a1db735"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "f2bb4a0c1e97723bd0df1560a51a2763db720f8234052be54d074b8052ebef43"
-metafile = true
-
-[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "6f49a6b513a5ff3425909151c85b6ec808e19b6d37e2343c7ea676000a9d1121"
 metafile = true
@@ -388,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "9f6dcd9dd7ba6ec3300d32aa295825e7af4505a6ffdaae52df8105dd2a808e79"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "f2e8e0b4cffafaea234a01b4f93bb45a9775bd0c31639f9dfb7144bf401f4f32"
 metafile = true
 
 [[files]]
