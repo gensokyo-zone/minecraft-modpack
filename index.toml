@@ -241,11 +241,6 @@ hash = "69661f579886b2891b06abdca6761c6e6bb8983f4b219267965612259a86628e"
 metafile = true
 
 [[files]]
-file = "mods/corpse.pw.toml"
-hash = "6e9063ad8277d672df26fbc7eecf8ed4e817ce892b2a67f29a8a4c422093152e"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "ccd7f4bfdffc29811264bcb5ddf07e63675be1326af71df1ccad83c849613884"
 metafile = true
@@ -458,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "37fc31f11c9fd758cc74e589d88685dc633b893213fb79c309c9ea546b6dd30e"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "14c6ab07626309bc3d433f88d5c00b7ebeb5acc1771fd1e85e70059eb851a89b"
 metafile = true
 
 [[files]]
@@ -1108,11 +1108,6 @@ metafile = true
 [[files]]
 file = "mods/tough-as-mekanism.pw.toml"
 hash = "b6b55253f2034b8087141838fc82add020e9bcf70852c652701c91872ca2862d"
-metafile = true
-
-[[files]]
-file = "mods/tough-as-nails.pw.toml"
-hash = "2ab2612d80a94ece44ebc61a82cd990942a411799e358820d48fbd58f9c16d06"
 metafile = true
 
 [[files]]
