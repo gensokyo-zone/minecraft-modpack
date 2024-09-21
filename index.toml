@@ -946,6 +946,11 @@ hash = "cb92831ae1333084aee2e0582ad76e074ee902f76939b2e2c4d288b831d27f1a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/refined-storage-recreated.pw.toml"
+hash = "28aecc26c20ba5bd27d56ffdc50f52cc4374a9057905c0aaf64f6a25ef32dfc8"
+metafile = true
+
+[[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
 hash = "741310902975c4cf1586fd2b6bf0ae267e8b3fbaee66af068e54be7e077e07d3"
 metafile = true
