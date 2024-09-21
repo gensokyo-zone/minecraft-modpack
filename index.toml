@@ -836,6 +836,11 @@ hash = "7ee3fd0152ab5cd7ff33598b6d3b756ed44b7e706bd54d0a399f33ca97cec942"
 metafile = true
 
 [[files]]
+file = "mods/srdp.pw.toml"
+hash = "ff25194df224f541e642b6ead95bd493050e16ce4b2e5be9629fa63edebedd62"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight-forge.pw.toml"
 hash = "7f6ca4ccfe1226dac1e62df49ab7e48e1faeac3e1946d73183a08cf2214115b2"
 metafile = true
