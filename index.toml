@@ -186,11 +186,6 @@ hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "84a0f647a6e00bda3cf95aad23bfbd123402f5dd7ca46a3b4b4116a77f656068"
-metafile = true
-
-[[files]]
 file = "mods/controllable.pw.toml"
 hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
 metafile = true
@@ -373,11 +368,6 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "f608b8ea0277a4a27e4f61f17ac689f9d2d105e5ebcd2b0893caa437fd576af4"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "73731fbf0a731554608aaa9705f51036892f1fe92606a93594f689e7227a5056"
 metafile = true
 
 [[files]]
@@ -696,8 +686,8 @@ hash = "1ee9ae66f682c9d0eeecf4f770c82ad3a2b974d9a59c324ae6c91bd46ee0df6f"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "3107213a52ef2fb87e81db0a330f1a06665afde112a3482ba3747128c6e99aa3"
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "81006dc530e5aaeb55c00b6891f73cd9e2fc1f3f3b84819df3a00c4aae151c2d"
 metafile = true
 
 [[files]]
