@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/controllable.pw.toml"
-hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
+hash = "4f2cc163997de29fde7f9585bf6c092eea669984196604520d07f060adef4eb8"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "896428e1a0c642fcad51883a0ac23d712dadfb38954af7be10af46e206848cc2"
+hash = "3dac382ad6e821379404d127c131ff5f70a2bb379cd48bcd605fa698ed5fe8ae"
 metafile = true
 
 [[files]]
