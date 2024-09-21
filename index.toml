@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "c562c4b91bd65ef0f6436854faaeaa03cf2e1647c97dd191589f405ea3ac600a"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "a8eb7a6a512e91601f30fbe75592bc778752c05fc0f87fd3d33d883eb6d63553"
-metafile = true
-
-[[files]]
 file = "mods/ad-astra-extra.pw.toml"
 hash = "7edfce8b7a14c72f55c921c3cfb3a6ff8490db14139d72466038e68465da23c6"
 metafile = true
@@ -253,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "d41c8557243ddcda7d0193ac905d4209ebc4753273b967e6c31ec6874dc0a58c"
 metafile = true
 
 [[files]]
