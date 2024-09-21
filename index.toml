@@ -286,6 +286,11 @@ hash = "cd29f96f806ab8621e2a9c76486b79e5da9e0b747f3f1ab7d4e3a97b1b9304e7"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "534bc7a9ce2118f2e397d1ccb3158733dfff85ed1c8c98136d548eac531c32c7"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "0bd3d604bc61c7460977b177bd9db979a6c235c55e8d1cd981dba1620ec80af8"
 metafile = true
