@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "a682bb29719e83706ec7477b751855fc21e63ee948108665f5aeddf3564263db"
+hash = "6aae8979aba734f803c3811e154f2ecbbdce88dfe6bb8a84b07ab864a7fd837d"
 metafile = true
 
 [[files]]
@@ -163,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
 metafile = true
 
 [[files]]
@@ -287,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
 
 [[files]]
@@ -576,6 +581,11 @@ hash = "885b3a412f67ae39c7cddd9fe878e82e055ebb9bc7246255987cceb66f336ab3"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "707a2afadb452328c47afed8046ae72ddb06811d1a3381b20676250474ff89c4"
+metafile = true
+
+[[files]]
 file = "mods/move-boats.pw.toml"
 hash = "e2c57918b934597805d1ec83d8e194c71163dc0f523a76c40d548cf0c62a7edd"
 metafile = true
@@ -852,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "a3ff68906b92808a1e5c9a6b0d5f3539b3d8b8ffa81d4939f844469d732ffe35"
+hash = "ae4956baa7bfc8a7d596169d256eba7ed2e2961b55e4ad331b50d3dc6c72baeb"
 metafile = true
 
 [[files]]
