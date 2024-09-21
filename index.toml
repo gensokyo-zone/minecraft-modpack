@@ -16,6 +16,11 @@ hash = "3de26a366ac7bc92c1b717da3308317b7ddef0e030b1f4826c4116659e5efa90"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "9640ea3acf5ca6cdd4363c107704da8ffafd450f9d92525b42181d2cb84458a4"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "3d8e430c9a57371e4167f0deef00fa000d545a5c644cf09f6e3b46b6d21e6834"
 metafile = true
@@ -353,6 +358,16 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "49431cb48a66b264c2cb7702c7bb80155d1a59a42d384348e30700ce0ebc1e4c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
