@@ -41,6 +41,11 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/areas.pw.toml"
+hash = "6a39ed880470d436054cd73421f6bd7b9bdaffdce67bb2be3dae3885f82367d7"
+metafile = true
+
+[[files]]
 file = "mods/ars-additions.pw.toml"
 hash = "69534893e5a7bdaed37d7cf20d2af20a6766ddef10a2a855bca2fe5102889816"
 metafile = true
