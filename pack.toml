@@ -1,0 +1,13 @@
+name = "Marka Modpack"
+author = "it's a real group effort o:"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "174d7f79fb36f7e61a300f4399a07653395eda758591e43f1c95de1a0ef3bfc3"
+
+[versions]
+forge = "47.3.10"
+minecraft = "1.20.1"
