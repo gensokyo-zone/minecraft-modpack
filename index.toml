@@ -921,6 +921,11 @@ hash = "61f276b2c47ef43f76dc57f19ad6a3b64893aec15729b7c8c0c37f844c89ccc7"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "09e75a781ba691084a36592f24cbecfaa19edccf4e78fb63c8740554b2f8eff5"
+metafile = true
+
+[[files]]
 file = "mods/underground-villages.pw.toml"
 hash = "c0ed49929ef95c28638466009a675e2fe0ba7555d08606baeb26fae33f5b2b30"
 metafile = true
