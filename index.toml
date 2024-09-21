@@ -261,6 +261,11 @@ hash = "d41c8557243ddcda7d0193ac905d4209ebc4753273b967e6c31ec6874dc0a58c"
 metafile = true
 
 [[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "4443e008331d1edf9d69e59264d4c6c7dd07c9ea00fed0da92671991db117364"
+metafile = true
+
+[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
 metafile = true
