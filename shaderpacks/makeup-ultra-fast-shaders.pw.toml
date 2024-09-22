@@ -2,6 +2,10 @@ name = "MakeUp - Ultra Fast"
 filename = "MakeUp-UltraFast-9.0a.zip"
 side = "client"
 
+[option]
+optional = true
+default = true
+
 [download]
 url = "https://cdn.modrinth.com/data/izsIPI7a/versions/scT6jTrm/MakeUp-UltraFast-9.0a.zip"
 hash-format = "sha512"

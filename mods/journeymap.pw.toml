@@ -2,6 +2,10 @@ name = "JourneyMap"
 filename = "journeymap-1.20.1-5.10.2-forge.jar"
 side = "both"
 
+[option]
+optional = true
+default = false
+
 [download]
 url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/umkCqDao/journeymap-1.20.1-5.10.2-forge.jar"
 hash-format = "sha512"
