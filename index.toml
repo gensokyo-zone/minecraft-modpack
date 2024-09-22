@@ -411,6 +411,11 @@ hash = "20cf588f9bf8b021676f5e6bfb0bb6b2735a03bc4f0c705a414336b96ef69410"
 metafile = true
 
 [[files]]
+file = "mods/faithful-32x-mods.pw.toml"
+hash = "326b4afaed7d3583ef76baeaffc41d1c60f71f35ab425277d48f12a89de58b8a"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
