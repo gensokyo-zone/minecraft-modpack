@@ -1056,6 +1056,11 @@ hash = "2e7aa64dac7ab7bb6c5a4f4bc5477b6904002032257cfafb06dbfd64f540fd39"
 metafile = true
 
 [[files]]
+file = "mods/wool-tweaks.pw.toml"
+hash = "af17dbecfe501f25e9cee0310ababbcc2fae3b744308de82c491bc6550b8f552"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "80333f3465b9771db745bc60dc2ead611546c892f500bc44417894dcf568ab89"
 metafile = true
