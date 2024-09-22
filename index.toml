@@ -116,6 +116,11 @@ hash = "1321e5c33d7c7b28538ff048ff2e8e47e56a2af1edf21da9953c080383eb5ab2"
 metafile = true
 
 [[files]]
+file = "mods/block-swap.pw.toml"
+hash = "c89a994dc0964243562fe3e3d5050587db2057a006be99bee11773d8b37d1d5a"
+metafile = true
+
+[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "832ce23a285dd86387eb7950f6159cc0ec0cdda36dad4b7036c35a99001b6943"
 metafile = true
