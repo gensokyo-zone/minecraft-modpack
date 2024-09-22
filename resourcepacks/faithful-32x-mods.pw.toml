@@ -1,12 +1,11 @@
 name = "faithful-32x-mods"
-filename = "Faithful-32x-Mods.zip"
-side = "client"
+filename = "6f72av.zip"
 
 [option]
 optional = true
 default = false
 
 [download]
-url = "https://github.com/Faithful-Resource-Pack/Faithful-32x-Mods/archive/refs/heads/1.20.x.zip"
+url = "https://files.catbox.moe/6f72av.zip"
 hash-format = "sha256"
-hash = "ae8c0188e7044b99e56a75b09be09a97f56d7437c1dd300969bd0ef7f21b04a9"
+hash = "ea7baa867eefe770e928fdf9bc83defa9bfbde838d2bfb4da365b95a8b915072"
