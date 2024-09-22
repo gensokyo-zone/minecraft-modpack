@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c5f5e3e9bf720dd39e3f0eb5231fd6186586f14e83b07bac91c27b1d80334623"
+hash = "1dd2465d676ba64d1faf162d2f92462ab9a78201f1dddd6392d2329761a284e4"
 metafile = true
 
 [[files]]
@@ -1057,12 +1057,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0f1fa3f642a02941fd2925c911695aaa0106a2278679f735d5182e3a95df5c33"
+hash = "965c87f393ab92ccc6798ac8dcc3b3404357d24ea09385dd4f1a33d678a30175"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8e3026324227122e65ef891db279aa84191611f26d29e5dbd92e0bd2ce048b6d"
+hash = "b1aa018daf42ec3b7332b382dfd6e34aa7b9891cf4f1f2a2c19d07fd65cf515d"
 metafile = true
 
 [[files]]
@@ -1077,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "b88d0c60a2aaae732f64620bc4853595a0309588e24d660e6c8506ecf2ef8fca"
+hash = "0adbfa08f152538ef8534c1d819927b45f3f7b6cd0e88549539b7fb9fbb35d39"
 metafile = true
 
 [[files]]
@@ -1087,15 +1087,15 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "40f83616a61e0af5e807e2ef1df03958e65234d82d2ac310d9c21fd82205df02"
+hash = "01fbd5e3c7c88f53d55cc118be7d0cd1861f405473723f15d38b0349a396d3ca"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "ced03e9472d4d93f0d6f90ab06a5198a6d125f9f61ff53184185bbcee52eca7f"
+hash = "e697a60d424bf96b3023e7637bc3c0a37222a569c51a08f6dff7cbc4824736b7"
 metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "741310902975c4cf1586fd2b6bf0ae267e8b3fbaee66af068e54be7e077e07d3"
+hash = "3f68c02576edab592d50df9dd22ecad8d1aa2f4871d24465406288a68bf445b1"
 metafile = true
