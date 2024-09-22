@@ -351,6 +351,11 @@ hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
 
 [[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "3f7d7e961be44b270240e6d8b6b7359027a0de4cd5bbef2ff66db2a67b4ac891"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "3dac382ad6e821379404d127c131ff5f70a2bb379cd48bcd605fa698ed5fe8ae"
 metafile = true
