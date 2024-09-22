@@ -26,6 +26,11 @@ hash = "3d8e430c9a57371e4167f0deef00fa000d545a5c644cf09f6e3b46b6d21e6834"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "b38e1a67e3f39de957587410f8cbfe2a542a3404656736ae81269d3422033c59"
 metafile = true
@@ -76,6 +81,11 @@ hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "66972afb7cfed3f736873f00c3178c7c55b995ea8a5edb96327a9b71bc3f7d42"
 metafile = true
@@ -108,6 +118,16 @@ metafile = true
 [[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "e5bb4345658a5f110823d1ea93d740d23b617c7888ffe635bc352d34c42311ca"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "79a3fb06122208f61eede6e34a4ed3ea15107cd89ebcbfd8afc2903a6fa01a8a"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
 metafile = true
 
 [[files]]
@@ -151,11 +171,6 @@ hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "0c513c655e359e1837f681aca1fcda2aa3f615d0b561f641556ea15bf4ce6832"
 metafile = true
@@ -168,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/clean-swing-through-grass.pw.toml"
 hash = "98952c950b934d7897e58d3602dab4a1ec64d63fa672d11b1320c7c09ef026fa"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
 metafile = true
 
 [[files]]
@@ -258,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "af76647a40795be88ccec3ef250fe71dcaf9f79c6afc5ba733ba6a6e834392ad"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves-reforged.pw.toml"
+hash = "df9ee07891e8347da9c0eef226a2043ab9299fdc8b2350c93a78af9c37455ee7"
 metafile = true
 
 [[files]]
@@ -401,6 +426,16 @@ hash = "f608b8ea0277a4a27e4f61f17ac689f9d2d105e5ebcd2b0893caa437fd576af4"
 metafile = true
 
 [[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
+file = "mods/flickerfix.pw.toml"
+hash = "c0aee4eedcbdab214dc04eb23ab98aace056c9473ac7d326c5f5edc5e1da58fb"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "ce081a84c6f6ac4a79753761fbe5c48bfcd29077af2c849ea6e3d7824b8f3e20"
 metafile = true
@@ -488,6 +523,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "951a4a6232f864acf04aca8d17f3233ec1a2be9a8b7928239a7a9e2faebb42c0"
 metafile = true
 
 [[files]]
@@ -603,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "4e48785986822d117ddc438fbb78cefe5c9e039087ba31169932d430f37c1702"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
@@ -738,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "105a3cb78f853a00406250e8a5be2cc2a757cdee03b8d933529c96b3bd9be309"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
