@@ -926,6 +926,11 @@ hash = "7ee3fd0152ab5cd7ff33598b6d3b756ed44b7e706bd54d0a399f33ca97cec942"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
 file = "mods/srdp.pw.toml"
 hash = "ff25194df224f541e642b6ead95bd493050e16ce4b2e5be9629fa63edebedd62"
 metafile = true
