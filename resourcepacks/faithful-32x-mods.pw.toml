@@ -1,5 +1,6 @@
 name = "faithful-32x-mods"
-filename = "1.20.x.zip"
+filename = "Faithful-32x-Mods.zip"
+side = "client"
 
 [option]
 optional = true
