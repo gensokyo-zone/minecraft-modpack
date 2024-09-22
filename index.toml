@@ -446,6 +446,11 @@ hash = "0b8aa31807551619198a73997b8d67e9a773fccc4ca9245a182d6731e2228675"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "ecaf990d63fd8d20c940d77fcf8378511addfe18c23f9615482938a78adaed37"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "fb01bfe36262e48cb1e11eedcd5421f67c58dce3f5bc9d69ef32a1aa2156449e"
 metafile = true
