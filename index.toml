@@ -516,13 +516,13 @@ hash = "fb01bfe36262e48cb1e11eedcd5421f67c58dce3f5bc9d69ef32a1aa2156449e"
 metafile = true
 
 [[files]]
-file = "mods/inventory-totem.pw.toml"
-hash = "7ad59c181decf0d0f47c827354989ecea02965cf22dc795cd5bd286ed466937b"
+file = "mods/inventory-essentials.pw.toml"
+hash = "355b8e763ceeab999bc60e6911cd6cda61b62d520f3d2397736bf8ae53a9bd25"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "14e2807467c55391a2c26c5448437808cb192a9975c112010c2457945a61e4e4"
+file = "mods/inventory-totem.pw.toml"
+hash = "7ad59c181decf0d0f47c827354989ecea02965cf22dc795cd5bd286ed466937b"
 metafile = true
 
 [[files]]
@@ -698,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "ef8ad203d666ead3be8535c8fdf39059c2faa9f4513cdd74d1698a4d4c5838f7"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
 
 [[files]]
