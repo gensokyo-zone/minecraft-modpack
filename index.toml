@@ -16,6 +16,16 @@ hash = "3de26a366ac7bc92c1b717da3308317b7ddef0e030b1f4826c4116659e5efa90"
 metafile = true
 
 [[files]]
+file = "mods/aeroblender.pw.toml"
+hash = "3003828b74335546dab094b9e20db143f9c01fe7a22dbcb934106a904819602f"
+metafile = true
+
+[[files]]
+file = "mods/aether-lost-content.pw.toml"
+hash = "93dbcd5448e94be7bf618788f380773a1dd95fff06c802b52d7bf85163a66e44"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "9640ea3acf5ca6cdd4363c107704da8ffafd450f9d92525b42181d2cb84458a4"
 metafile = true
@@ -306,6 +316,11 @@ hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
 metafile = true
 
 [[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "ca12269e6e254442c53d58aafba6e9cb6d4237565b6d898227aa761f3f92d05a"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "2eefce4656e6a08c3cf62176af5ac742121ace80482314f25cb871162c59208b"
 metafile = true
@@ -462,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
+hash = "1484808760dad0e89dfbd3e3758b96dc9ecbb3d46fcec1489ac9d090213376c6"
 metafile = true
 
 [[files]]
@@ -736,6 +751,11 @@ hash = "57f6793fdca748db18eb33a34344f68804e881af07c5e032073d8b33ee683a54"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "b99b30e7ee2bc980b5efa7c5ae5e6563f2f629917805bd5501139b371e0adfad"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
 metafile = true
@@ -823,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "ce0fde07ed8f70f9eb4f17e0fbc6002c47e2b11be54e3633d0a5c82ce043e9de"
 metafile = true
 
 [[files]]
@@ -951,6 +976,11 @@ hash = "7f6ca4ccfe1226dac1e62df49ab7e48e1faeac3e1946d73183a08cf2214115b2"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
+metafile = true
+
+[[files]]
 file = "mods/stylish-effects.pw.toml"
 hash = "d81aae3d0916b3d60201f43b2eab687600991c36fa6959b61442bf378419ade0"
 metafile = true
@@ -973,6 +1003,16 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/the-aether-redux.pw.toml"
+hash = "46f484ec51c2fe489a68d1bda0ee0bb85172401c579c5c76a1b43518aaa17a2c"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]
@@ -1026,8 +1066,18 @@ hash = "61f276b2c47ef43f76dc57f19ad6a3b64893aec15729b7c8c0c37f844c89ccc7"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "09e75a781ba691084a36592f24cbecfaa19edccf4e78fb63c8740554b2f8eff5"
+metafile = true
+
+[[files]]
+file = "mods/umbral-skies.pw.toml"
+hash = "95f8dc729a6862b98f9ed3a7a192c9c9fee42ed1b95b8b41138a298dd6c1c6ae"
 metafile = true
 
 [[files]]
@@ -1073,6 +1123,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "b1aa018daf42ec3b7332b382dfd6e34aa7b9891cf4f1f2a2c19d07fd65cf515d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "6bd14b6a900e2a01db73e2dbdf3583d17916d03d4efad2cc4f4c20d2b82e669e"
 metafile = true
 
 [[files]]
