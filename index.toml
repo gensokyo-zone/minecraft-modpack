@@ -676,6 +676,11 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "6b336af5a4e2e7e3ac54057894eb284d66d61682bd522c6582d37fedbc9e8183"
+metafile = true
+
+[[files]]
 file = "mods/mob-plaques.pw.toml"
 hash = "8c3f5e5391a8135db3ad69f67a81f49525c0e8f0023350172d1b203bebb92858"
 metafile = true
@@ -688,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "707a2afadb452328c47afed8046ae72ddb06811d1a3381b20676250474ff89c4"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "ef8ad203d666ead3be8535c8fdf39059c2faa9f4513cdd74d1698a4d4c5838f7"
 metafile = true
 
 [[files]]
