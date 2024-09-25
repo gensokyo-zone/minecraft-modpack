@@ -1141,6 +1141,21 @@ hash = "75cb589040da1a27f5ef0aae945a9b0c67debd4b37126dd8384b878c7e019fba"
 metafile = true
 
 [[files]]
+file = "mods/vampires-delight.pw.toml"
+hash = "27df61fb6bb3030482b9a0b5151510fea425a2b3e1a8cdded9942ab2f1eb94b6"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-become-a-vampire.pw.toml"
+hash = "f9bb1df8c9350abae07a67dd1ea414d495bd6176bf752d3264120d8c79714e95"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "a329e20cdf225a125de0c8343e3c9fbdb1569829e58e0a208e3c274c04d98535"
+metafile = true
+
+[[files]]
 file = "mods/vegan-delight.pw.toml"
 hash = "65f02723b756b3cd81a4b1e9216f95ad97bcac3dae22a0f7da4b5990a84ea321"
 metafile = true
@@ -1153,6 +1168,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "55a20f1ba9309947abacc023ba5b78a25ce41223c7d44c6fe1f85dafbdc4f9a1"
+metafile = true
+
+[[files]]
+file = "mods/werewolves-become-a-beast.pw.toml"
+hash = "89fb403c92a3dbeb7b7cf9942f3aae14982ddd63394e2f79e4f6e2f407bd74cc"
 metafile = true
 
 [[files]]
