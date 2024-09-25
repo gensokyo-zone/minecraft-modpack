@@ -666,6 +666,16 @@ hash = "bcab19f90a7b77b0c4eb0b6f30b6c43994a3305cbfae6d2768ec8cb6203ed045"
 metafile = true
 
 [[files]]
+file = "mods/manyideas-core.pw.toml"
+hash = "c1f2efd11a933c8fa868a8bdbecc2036fe33abc144004362b0f86ee53404c405"
+metafile = true
+
+[[files]]
+file = "mods/manyideas-doors.pw.toml"
+hash = "47b565fbc0f269222372a9386ad353d26f860209e4d41fc0110c4691b9f80c3c"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "7041659854a3033c9bf27e758ab3d6e65e26acc59961283f2ded5ffe13532330"
 metafile = true
@@ -868,6 +878,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
+metafile = true
+
+[[files]]
+file = "mods/recipes-library.pw.toml"
+hash = "779155317471577b1c73d66584bf2a43bb358662efcf984ced59e0b993a22f62"
 metafile = true
 
 [[files]]
