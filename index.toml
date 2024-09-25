@@ -1006,6 +1006,11 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
+file = "mods/spawn-balance-utility.pw.toml"
+hash = "1bf54b73b08ccce2ccb8fbb87557691cb19217515ad2eabb7f35c915994f9678"
+metafile = true
+
+[[files]]
 file = "mods/srdp.pw.toml"
 hash = "ff25194df224f541e642b6ead95bd493050e16ce4b2e5be9629fa63edebedd62"
 metafile = true

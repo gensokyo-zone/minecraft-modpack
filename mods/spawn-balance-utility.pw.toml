@@ -1,0 +1,13 @@
+name = "Spawn Balance Utility"
+filename = "spawnbalanceutility-1.20-46.13.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fe7c40930af388445eeb3a0fba66fb9e2c0c7af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5676207
+project-id = 486753
