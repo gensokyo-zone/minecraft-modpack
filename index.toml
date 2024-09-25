@@ -951,6 +951,11 @@ hash = "c9e3aac8ae86700f84fa2ff5c949a6bc411c6711d58bbccb92b4162c17926b7f"
 metafile = true
 
 [[files]]
+file = "mods/shrink_.pw.toml"
+hash = "bb499bb2efd030f7d1487359492bf1877a799ca009d76a8d8b3c3f89fe0ae8c8"
+metafile = true
+
+[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "ba0c68dbb5d164f5ed3b7a0b15c668b400d1eaca4b03ab4ee0236be24db5e1e4"
 metafile = true
