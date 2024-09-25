@@ -256,6 +256,11 @@ hash = "8a86fc09e720b26bb48a117fccd8a3c9bfe5791bcebeca9ced5be018759682cb"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "60e22142593d512e3614ae5171e8a247d9bedbf18fe55750387f45f99993e5cc"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves-reforged.pw.toml"
 hash = "df9ee07891e8347da9c0eef226a2043ab9299fdc8b2350c93a78af9c37455ee7"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "16b186ee61e77742ea2e40357b48dc4fc326baadb5f137356659b8ba2d991d92"
 metafile = true
 
 [[files]]
@@ -731,6 +741,11 @@ hash = "d2fc6b33af43c171de6aa262b969033828143c0dc31a2e3135edb1548b5fa1dd"
 metafile = true
 
 [[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "01075eaba722a88397b274b315885ea9c67d87274d998ab10e5d1b56091cf52f"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
@@ -1103,6 +1118,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "09e75a781ba691084a36592f24cbecfaa19edccf4e78fb63c8740554b2f8eff5"
+metafile = true
+
+[[files]]
+file = "mods/twilights-flavors-delight.pw.toml"
+hash = "71d07bf68cf8f1f3beb2003f3df38c3ecaff1779585e1cfaff1ba4c571ba6456"
 metafile = true
 
 [[files]]
