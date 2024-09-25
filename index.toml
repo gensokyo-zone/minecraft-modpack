@@ -1151,6 +1151,11 @@ hash = "27df61fb6bb3030482b9a0b5151510fea425a2b3e1a8cdded9942ab2f1eb94b6"
 metafile = true
 
 [[files]]
+file = "mods/vampires-need-umbrellas.pw.toml"
+hash = "2905c695fcea5c12cd5bef42a2385fc55d67e0c62e99badc916e8c65f86b5fe6"
+metafile = true
+
+[[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
 hash = "f9bb1df8c9350abae07a67dd1ea414d495bd6176bf752d3264120d8c79714e95"
 metafile = true
