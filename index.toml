@@ -191,6 +191,11 @@ hash = "0c513c655e359e1837f681aca1fcda2aa3f615d0b561f641556ea15bf4ce6832"
 metafile = true
 
 [[files]]
+file = "mods/chicken-chunks-1-8.pw.toml"
+hash = "0f79e36c3b0b299046d61c7b7d6801ed986afa4c1853882e0a85ece2243b67ba"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "2d59ff569b635094b9854395a59ddee19c5fb2a260b82bc9934085df60c3282c"
 metafile = true
@@ -213,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
 
 [[files]]
