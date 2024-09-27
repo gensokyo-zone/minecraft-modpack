@@ -971,6 +971,11 @@ hash = "20e0c41d2278b2f07ad6b6ad1857b6488546f603ee933c6fe4233ad3eaaa75b0"
 metafile = true
 
 [[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "7057f4f9bdb222afe0ca0e7e55ae8169585a17bcf556aa54daed691ac09f3e8c"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
