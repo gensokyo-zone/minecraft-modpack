@@ -161,6 +161,11 @@ hash = "f43a679bd8b69ff6e92530fad0a261583d6019b62740efb0af7a53b14b0592b0"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "b0980e34ed0d7bb22cd8244a3c838d40778288d8c102c0021387a5f46965eb20"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
 metafile = true
@@ -247,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/controllable.pw.toml"
-hash = "4f2cc163997de29fde7f9585bf6c092eea669984196604520d07f060adef4eb8"
+hash = "ffbf2e0cd311f406d3d7665d2f263ee244e8764b94e035bcf31ffa83002e9a67"
 metafile = true
 
 [[files]]
@@ -387,12 +392,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "3f7d7e961be44b270240e6d8b6b7359027a0de4cd5bbef2ff66db2a67b4ac891"
+hash = "a7c037a5b9863f7104d5495ec0bb5df56c4d4cff49e351a3cd1db7690dc7031d"
 metafile = true
 
 [[files]]
@@ -817,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
+hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
 metafile = true
 
 [[files]]
