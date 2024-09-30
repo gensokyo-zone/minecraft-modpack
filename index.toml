@@ -41,6 +41,11 @@ hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
 metafile = true
 
 [[files]]
+file = "mods/always-a-wither-skull.pw.toml"
+hash = "cb1aad703883e4de2c985043aa99c17e83f3510468bde06afb8b2a19d768708c"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "b38e1a67e3f39de957587410f8cbfe2a542a3404656736ae81269d3422033c59"
 metafile = true
