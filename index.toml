@@ -511,6 +511,11 @@ hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
 metafile = true
 
 [[files]]
+file = "mods/fumo-easy-recipes.pw.toml"
+hash = "b54733231e3361fbae64bbedd670ce3962e38172cf781361f93ef5dc73715e08"
+metafile = true
+
+[[files]]
 file = "mods/fumo.pw.toml"
 hash = "658dcf3a0a9775350eec20994df8c0decf686c468a348dee1e2348f5be93d16b"
 metafile = true
