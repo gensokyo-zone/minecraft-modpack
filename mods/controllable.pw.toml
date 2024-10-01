@@ -5,6 +5,7 @@ side = "client"
 [option]
 default = false
 optional = true
+description = "Do not include this if you select EMI they are mutually exclusive! Adds controller support to Java edition!"
 
 [download]
 hash-format = "sha1"

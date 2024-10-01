@@ -5,6 +5,7 @@ side = "both"
 [option]
 optional = true
 default = false
+description = "Do not include this if you select Controllable, they are mutually exclusive! JEI improvements."
 
 [download]
 url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/9BeUhlBt/emi-1.1.13%2B1.20.1%2Bforge.jar"

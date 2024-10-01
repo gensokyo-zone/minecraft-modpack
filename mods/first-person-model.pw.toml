@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = false
+description = "Overhauls the first person camera, requires not enough animations, looks pretty. Might hurt performance?"
 
 [download]
 url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/odq4S3nL/firstperson-forge-2.4.5-mc1.20.1.jar"

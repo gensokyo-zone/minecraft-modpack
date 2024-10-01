@@ -5,6 +5,7 @@ side = "both"
 [option]
 optional = true
 default = false
+description = "We prefer Xaero's over this since Journeymap is so performance intensive it intensely harms 1% lows"
 
 [download]
 url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/umkCqDao/journeymap-1.20.1-5.10.2-forge.jar"

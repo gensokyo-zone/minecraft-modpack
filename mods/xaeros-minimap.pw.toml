@@ -15,3 +15,4 @@ version = "R5ch4BWG"
 [option]
 optional = true
 default = true
+description = "Pairs well with their world map, not as intense as Journeymap, really a must."

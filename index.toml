@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/automatic-tool-swap.pw.toml"
-hash = "0624e52ec4cb12b34b20bb7431895caae9634b13fe692ae06bc0d981cec03e92"
+hash = "d64229c6b937bd6ee25caa58a8abdf9a70c152eb92ee571ba0f7bc61dec302f5"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-animations-collection.pw.toml"
-hash = "4ab235161dc3b27050ec7da60da3c72d19b5fde9df60ad934f0af6e39fdd5367"
+hash = "89b778b8841356acd6999cd2f05720099fd26045f110bb7c7c46539672eab0ef"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/controllable.pw.toml"
-hash = "ffbf2e0cd311f406d3d7665d2f263ee244e8764b94e035bcf31ffa83002e9a67"
+hash = "f7eef7b14ed8d5fb1072ec53f66b8974f741978ae164bea72137430065cf8522"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3dac382ad6e821379404d127c131ff5f70a2bb379cd48bcd605fa698ed5fe8ae"
+hash = "fe7809d6ead91342f7e5d6743f39d2f095ece8df466a26b2804490401bc48ace"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "5d4f72b0face27d13908efa697b23afaf6747fa7698400399d5fa6bf66244606"
+hash = "e7d18c439dd865e95c2923f39ad85c296a736ac0be68f84a8187cb10a9b5aa4b"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "1dd2465d676ba64d1faf162d2f92462ab9a78201f1dddd6392d2329761a284e4"
+hash = "3bc2d156a884cc1d69da2c312b5927863aa59bdb4d5054b8eaa0af7b5eaccbdc"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ec1a3f3747509d5b739d777c9ff4b93b910db1b39130035350ecbb060ae8a3c4"
+hash = "540023dd93d0dd0c500ea22651fc2ae155cb895b3af9b4efa952b39204cfbc23"
 metafile = true
 
 [[files]]
@@ -1282,12 +1282,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a07a1d5b7850225e9a828897d631c701f1dae6d58df73aaaa7c9f00674118728"
+hash = "3cac8c0ea2f20471b23620cee190d481f611b01a6e9f5df16e3e39a008a37c2a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b1aa018daf42ec3b7332b382dfd6e34aa7b9891cf4f1f2a2c19d07fd65cf515d"
+hash = "276541b19dc47e94212f1e44e0aa8db1f9059ddf8a963081f744fa15306c2383"
 metafile = true
 
 [[files]]
@@ -1332,5 +1332,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "3f68c02576edab592d50df9dd22ecad8d1aa2f4871d24465406288a68bf445b1"
+hash = "6a4edf1f5be96f01a91f3d3433b72f214adf0f4d96f228ea47d7069ef8582149"
 metafile = true

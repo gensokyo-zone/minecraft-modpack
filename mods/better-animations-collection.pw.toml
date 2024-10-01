@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = false
+description = "You might hate this if you dislike wacky inflatable tube man endermen or wiggly creepers."
 
 [download]
 url = "https://cdn.modrinth.com/data/OoOVj3J3/versions/IWYoMQYX/BetterAnimationsCollection-v8.0.0-1.20.1-Forge.jar"

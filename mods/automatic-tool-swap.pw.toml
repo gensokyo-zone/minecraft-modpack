@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = false
+description = "Automatically switches tools as necessary on the hotbar for the required block, makes you not want paxels as much"
 
 [download]
 url = "https://cdn.modrinth.com/data/L9JLNLqk/versions/d9CQIJX3/ToolSwap-1.20.1-5.0.6.jar"
