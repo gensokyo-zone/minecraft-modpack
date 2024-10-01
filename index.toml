@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/automatic-tool-swap.pw.toml"
-hash = "b74bf22895e1f3df0645a78900f4d78a2d90462eb4bb4ecaeeccb2ffd4cd4a95"
+hash = "0624e52ec4cb12b34b20bb7431895caae9634b13fe692ae06bc0d981cec03e92"
 metafile = true
 
 [[files]]
