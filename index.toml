@@ -511,6 +511,11 @@ hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
 metafile = true
 
 [[files]]
+file = "mods/fumo.pw.toml"
+hash = "658dcf3a0a9775350eec20994df8c0decf686c468a348dee1e2348f5be93d16b"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "6f36277fa2c310a56a47bc95007cbf9ea591959add14c1a19308eec339da3d2a"
 metafile = true
@@ -553,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ecaf990d63fd8d20c940d77fcf8378511addfe18c23f9615482938a78adaed37"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "73eaa012cc92cb1f0d06731640dd9e4b876306ad92aa126e35b7ab7beb8591e9"
 metafile = true
 
 [[files]]
@@ -703,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "7041659854a3033c9bf27e758ab3d6e65e26acc59961283f2ded5ffe13532330"
+metafile = true
+
+[[files]]
+file = "mods/mcr_blahaj.pw.toml"
+hash = "3a9126037aa4c6f9f2ca01af14bcb1403cbc11dcbef7637a974b5cf4257b3393"
 metafile = true
 
 [[files]]
