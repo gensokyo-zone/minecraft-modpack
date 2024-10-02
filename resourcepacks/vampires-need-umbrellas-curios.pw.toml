@@ -1,0 +1,13 @@
+name = "Vampires Need Umbrellas - Curios"
+filename = "curiosumbrella.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bbe958a31e457f859bc59f7c9e3c01229111f1d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4750478
+project-id = 912764
