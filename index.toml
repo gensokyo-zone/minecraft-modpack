@@ -1326,11 +1326,6 @@ hash = "28aecc26c20ba5bd27d56ffdc50f52cc4374a9057905c0aaf64f6a25ef32dfc8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/vampires-need-umbrellas-curios.pw.toml"
-hash = "07e63da7f6680fccd7f87e9798b11e13c19e9f9ab91d5216df43df0c725ef60c"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "01fbd5e3c7c88f53d55cc118be7d0cd1861f405473723f15d38b0349a396d3ca"
 metafile = true

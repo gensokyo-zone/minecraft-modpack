@@ -1,0 +1,5 @@
+curiosumbrella - https://modrinth.com/datapack/vampires-need-umbrellas-curios
+
+BNO & BEO - requires datapack to provide non-vanilla ores in dimensions
+* https://www.curseforge.com/minecraft/mc-mods/basic-nether-ores
+* https://www.curseforge.com/minecraft/mc-mods/basic-end-ores
