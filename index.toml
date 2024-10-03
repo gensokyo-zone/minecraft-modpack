@@ -401,6 +401,11 @@ hash = "de2598f8f73566343a651ca35293bce8171e8904758f9603ed818692955cfe01"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "f3f7be7bc93fb265b44c8d18b072b026dd32c05d7ecdf8bd5d5f0a74c6794d4b"
+metafile = true
+
+[[files]]
 file = "mods/elevatormod.pw.toml"
 hash = "875844f4a9507a8b43b3118258af55a051c49e9a8b81be9ed3d4193e0a351b59"
 metafile = true
@@ -458,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "bb42282864776060df35b738900e58982fd287a8b4dc40637c309373e1d5d726"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "9b7faf3aa2a5e4f6579687ff4cdee7b46a5b6f740b0ad02c1f4c135d666cdff5"
 metafile = true
 
 [[files]]
