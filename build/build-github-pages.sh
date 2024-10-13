@@ -20,5 +20,5 @@ git ${GIT_PREFIX} add -A
 export GIT_{COMMITTER,AUTHOR}_EMAIL="github-actions@gensokyo.zone"
 export GIT_{COMMITTER,AUTHOR}_NAME="GitHub Actions"
 
-git ${GIT_PREFIX} commit -m "Synchronize from ${BRANCH}/${REVISION}"
+git ${GIT_PREFIX} commit -m "Synchronize from ${BRANCH}/${REVISION}" --allow-empty
 git ${GIT_PREFIX} push origin HEAD:pages
