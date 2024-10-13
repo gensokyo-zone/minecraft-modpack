@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/.keep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "defaultconfigs/.keep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "flake.lock"
 hash = "7824bec72d937ed4277b9189d7563e6b657d635b04bb24bd2bb4b3df3d997517"
 
