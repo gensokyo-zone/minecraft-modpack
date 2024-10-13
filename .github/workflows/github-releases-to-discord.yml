@@ -1,3 +1,5 @@
+name: Discord Publisher Notification
+
 on:
   release:
     types: [published]
