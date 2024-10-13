@@ -12,6 +12,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        fetch-tags: true
       - name: Run build shell script
         run: ./build/build-multimc-instance.sh
       - name: GH Release
