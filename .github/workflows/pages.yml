@@ -22,5 +22,6 @@ jobs:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
           embed-title: ${{ steps.commit_message.outputs.COMMIT_SUBJECT }}
           embed-description: ${{ steps.commit_message.outputs.COMMIT_BODY }}
+          embed-url: ${{ steps.tag_message.outputs.COMMIT_URL }}
       - name: Run build shell script
         run: ./build/build-github-pages.sh
