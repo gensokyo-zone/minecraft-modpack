@@ -2,13 +2,14 @@ name = "Dense Mekanism"
 filename = "densemekanism-1.20.1-1.1.0.jar"
 side = "both"
 
+# The mode has been commented out because this mod is excluded from the curseforge API
 [download]
 hash-format = "sha1"
 hash = "178adb42600bd94be344473661510e5d4c4eb5b6"
-mode = "metadata:curseforge"
+#mode = "metadata:curseforge"
 url = "https://kittywitch.github.io/minecraft-modpack/mods/densemekanism-1.20.1-1.1.0.jar"
 
-[update]
-[update.curseforge]
-file-id = 4993075
-project-id = 870688
+#[update]
+#[update.curseforge]
+#file-id = 4993075
+#project-id = 870688

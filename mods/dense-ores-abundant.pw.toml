@@ -2,13 +2,14 @@ name = "Dense Ores - Abundant!"
 filename = "denseores-1.20.1-1.2.2.jar"
 side = "both"
 
+# The mode has been commented out because this mod is excluded from the curseforge API
 [download]
 hash-format = "sha1"
 hash = "ccdf015a46f5efd5cb807a6e92685dc89f2ba693"
-mode = "metadata:curseforge"
+#mode = "metadata:curseforge"
 url = "https://kittywitch.github.io/minecraft-modpack/mods/denseores-1.20.1-1.2.2.jar"
 
-[update]
-[update.curseforge]
-file-id = 4993069
-project-id = 729297
+#[update]
+#[update.curseforge]
+#file-id = 4993069
+#project-id = 729297

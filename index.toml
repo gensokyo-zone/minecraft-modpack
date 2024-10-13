@@ -376,12 +376,12 @@ metafile = true
 
 [[files]]
 file = "mods/dense-mekanism.pw.toml"
-hash = "a25da4d778003d24d585ef1d7216a20337290c2cad47024d76aba5d947f36d73"
+hash = "192398beb9ec13558f30520371b80b5bbbc5cb790a07d54ce1a675de450f2ecb"
 metafile = true
 
 [[files]]
 file = "mods/dense-ores-abundant.pw.toml"
-hash = "3f55d086fae03e735959ad5265bb7eab4a6be578903d8de4eb97b4b8ac6de66f"
+hash = "1b902be6af89a1075f18b4092c2de832f042fbeee3ce415b7c3f7e6a0ec5f72f"
 metafile = true
 
 [[files]]
