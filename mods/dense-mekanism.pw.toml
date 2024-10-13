@@ -6,6 +6,7 @@ side = "both"
 hash-format = "sha1"
 hash = "178adb42600bd94be344473661510e5d4c4eb5b6"
 mode = "metadata:curseforge"
+url = "https://kittywitch.github.io/minecraft-modpack/vendor/mods/densemekanism-1.20.1-1.1.0.jar"
 
 [update]
 [update.curseforge]
