@@ -13,8 +13,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Run build shell script
-        run: ./build/build-github-pages.sh
       - name: Get commit message
         id: commit_message
         run: ./build/get-commit-description.sh
@@ -24,3 +22,5 @@ jobs:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
           embed-title: ${{ steps.commit_message.outputs.COMMIT_SUBJECT }}
           embed-description: ${{ steps.commit_message.outputs.COMMIT_BODY }}
+      - name: Run build shell script
+        run: ./build/build-github-pages.sh
