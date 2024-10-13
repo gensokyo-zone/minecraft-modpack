@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/inspectionProfiles/profiles_settings.xml"
+hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
+
+[[files]]
+file = ".idea/minecraft-modpack.iml"
+hash = "c81735b4bf0304f3c9a8c3d6dfd82d231a627b049c64aabb4a1d7d25a201cc3d"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "bc7b259cd1820306f14cce2f239bce5214ae07d96a97d968930dd9afa3d0d243"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "f552dabf693be8afba5ced5ea866fccf77df64f63d28c97720e76275b2579897"
+
+[[files]]
+file = "build-multimc-instance.sh"
+hash = "b92342f4f298e510f7c36303429cd2b8217ee82fa2e065898a1d2090879465ff"
+
+[[files]]
+file = "defaultconfigs/.keep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "flake.lock"
+hash = "7824bec72d937ed4277b9189d7563e6b657d635b04bb24bd2bb4b3df3d997517"
+
+[[files]]
+file = "flake.nix"
+hash = "5f6198b51a8ddaed0634a50f39e91d889f47bd4c7f7451b25be99b66344af6c0"
+
+[[files]]
 file = "mods/ad-astra-extra.pw.toml"
 hash = "7edfce8b7a14c72f55c921c3cfb3a6ff8490db14139d72466038e68465da23c6"
 metafile = true
@@ -379,6 +415,14 @@ metafile = true
 file = "mods/dense-ores-abundant.pw.toml"
 hash = "cd29f96f806ab8621e2a9c76486b79e5da9e0b747f3f1ab7d4e3a97b1b9304e7"
 metafile = true
+
+[[files]]
+file = "mods/densemekanism-1.20.1-1.1.0.jar"
+hash = "008df0be7579ea3e23e5c8f28d44bb05ed631748f8440999ba8ced42f9023a12"
+
+[[files]]
+file = "mods/denseores-1.20.1-1.2.2.jar"
+hash = "def55d2221b79c5ad0cc7cf33a438c91df4d0f3eb39c826f78099ec16d0b2e2f"
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
@@ -1111,6 +1155,10 @@ hash = "1716ad03a91d3eea0935fb9a275baeab764664197007bdbe4b5ea01530660b1f"
 metafile = true
 
 [[files]]
+file = "mods/spawnbalanceutility-1.20-46.13.6.jar"
+hash = "32df38628400b7e5d9e37f381f04dec525b5b64871b796087b2970e146548d20"
+
+[[files]]
 file = "mods/srdp.pw.toml"
 hash = "ff25194df224f541e642b6ead95bd493050e16ce4b2e5be9629fa63edebedd62"
 metafile = true
@@ -1359,3 +1407,7 @@ metafile = true
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
 hash = "6a4edf1f5be96f01a91f3d3433b72f214adf0f4d96f228ea47d7069ef8582149"
 metafile = true
+
+[[files]]
+file = "shell.nix"
+hash = "46083ee4f1a61711cde1eeaa9c40bd0898a6bb31b602f4af80f500661ef396dc"

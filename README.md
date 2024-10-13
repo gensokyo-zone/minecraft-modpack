@@ -1,6 +1,12 @@
 # Marka Modpack
 Matri, arc and kat's modpack - for Minecraft 1.20.1 with Forge.
 
+## Usage / Playing
+
+We recommend the use of Prism Launcher above the other MultiMC-compatibles/derivatives (MultiMC, PolyMC, ...), due to comparative internal politics of these projects.
+
+Import the release instance zip with "add instance" in the launcher. Happy gaming, gamer! ^_^
+
 ## Contributing
 
 ### Installing / obtaining packwiz
