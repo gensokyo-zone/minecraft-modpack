@@ -7,3 +7,6 @@
 # Exclude nix build results
 /result/
 /Marka Modpack 1.20.1.zip
+
+# Exclude github pages worktree
+/pages
