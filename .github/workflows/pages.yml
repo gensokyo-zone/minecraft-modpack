@@ -1,7 +1,10 @@
 name: Publish pages site
 
-on: [push, workflow_dispatch]
-
+on:
+  workflow_dispatch:
+  push:
+    tags-ignore:
+      - '**'
 jobs:
   build:
     runs-on: ubuntu-latest
