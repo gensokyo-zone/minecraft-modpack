@@ -2,4 +2,7 @@
 *.mrpack
 
 # Exclude IntelliJ Configuration
-.idea/
+/.idea/
+
+# Exclude nix build results
+/result/
