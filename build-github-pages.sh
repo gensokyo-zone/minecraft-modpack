@@ -11,6 +11,7 @@ git worktree add pages pages
 
 mkdir -p pages/${BRANCH}
 rsync --delete --exclude-from '.gitignore' --exclude-from '.packwizignore' --exclude '.*' -av . ./pages/${BRANCH}
+
 ln -srft ./pages/ ./pages/${BRANCH}/*
 
 GIT_PREFIX="-C pages/"

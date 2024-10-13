@@ -6,6 +6,5 @@
 /.envrc*
 /vendor/
 /.idea/
-.keep
 *.sh
 *.nix
