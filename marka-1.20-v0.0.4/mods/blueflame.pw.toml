@@ -1,0 +1,13 @@
+name = "Blue Flame Burning"
+filename = "blueflame-1.20.0-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8k7QiW7U/versions/Pc0REQVT/blueflame-1.20.0-1.0.2.jar"
+hash-format = "sha512"
+hash = "ed1aa81c968cd584af7b56e00685b1ab4b1ab9f474d0fa1fd93218332ffaa1c141e8834e0d45bd0cbee39a9fbd95255e16249b7e5477bbcf1e9a8b5f8dbb8b69"
+
+[update]
+[update.modrinth]
+mod-id = "8k7QiW7U"
+version = "Pc0REQVT"
