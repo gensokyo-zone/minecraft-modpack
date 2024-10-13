@@ -1,0 +1,13 @@
+name = "Immersive Melodies"
+filename = "immersive_melodies-0.3.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/zjMy2oFH/immersive_melodies-0.3.0%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "e5aa0710d001b7b071b3843e91cf2a42fbcdd06057cf4d15cc74922885282cd257b2c61c240df9be78f4c1487c61d39946dcfe6e4a714440835e5467bb1d887a"
+
+[update]
+[update.modrinth]
+mod-id = "TaSmHw8V"
+version = "zjMy2oFH"
