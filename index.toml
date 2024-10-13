@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "fbf48d388c506beb1f8562745115dc67b5ca346d0f9872d7c0cfb439bf2d8a7b"
+hash = "801f5f50e8f6022f58e6ff62198958a81924ef6058f52ae6d115952311c5ac6d"
 metafile = true
 
 [[files]]
