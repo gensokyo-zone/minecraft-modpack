@@ -20,5 +20,5 @@ wget https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/down
 echo "Creating a Prism Launcher / MultiMC / PolyMC compatible instance zip"
 OUTPUT_DIR=${PWD}
 pushd "${BUILD_DIR}"
-zip -r "${OUTPUT_DIR}/Marka Modpack 1.20.zip" * .*
+zip -r "${OUTPUT_DIR}/Marka Modpack 1.20.zip" *
 popd
