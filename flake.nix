@@ -6,16 +6,21 @@
     flake-utils.url = "github:numtide/flake-utils";
   };
 
-  outputs = { self, nixpkgs, flake-utils }: flake-utils.lib.eachDefaultSystem (system: {
-    devShells = let
+  outputs = {
+    self,
+    nixpkgs,
+    flake-utils,
+  }:
+    flake-utils.lib.eachDefaultSystem (system: {
+      devShells = let
         pkgs = import nixpkgs {
-            inherit system;
+          inherit system;
         };
-    in rec {
+      in rec {
         minecraft = import ./shell.nix {
-            inherit pkgs;
+          inherit pkgs;
         };
-    default = minecraft;
-    };
-  });
+        default = minecraft;
+      };
+    });
 }
