@@ -1,44 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/inspectionProfiles/profiles_settings.xml"
-hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
-
-[[files]]
-file = ".idea/minecraft-modpack.iml"
-hash = "c81735b4bf0304f3c9a8c3d6dfd82d231a627b049c64aabb4a1d7d25a201cc3d"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "bc7b259cd1820306f14cce2f239bce5214ae07d96a97d968930dd9afa3d0d243"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "f3e788ca04d68054d3e62603305be3ec7563aac461dc6a3399001e50a11da06e"
-
-[[files]]
-file = "build-multimc-instance.sh"
-hash = "b92342f4f298e510f7c36303429cd2b8217ee82fa2e065898a1d2090879465ff"
-
-[[files]]
-file = "config/.keep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "defaultconfigs/.keep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "flake.lock"
 hash = "7824bec72d937ed4277b9189d7563e6b657d635b04bb24bd2bb4b3df3d997517"
-
-[[files]]
-file = "flake.nix"
-hash = "5f6198b51a8ddaed0634a50f39e91d889f47bd4c7f7451b25be99b66344af6c0"
 
 [[files]]
 file = "mods/ad-astra-extra.pw.toml"
@@ -1411,7 +1375,3 @@ metafile = true
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
 hash = "6a4edf1f5be96f01a91f3d3433b72f214adf0f4d96f228ea47d7069ef8582149"
 metafile = true
-
-[[files]]
-file = "shell.nix"
-hash = "46083ee4f1a61711cde1eeaa9c40bd0898a6bb31b602f4af80f500661ef396dc"

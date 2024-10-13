@@ -5,3 +5,7 @@
 /README.md
 /.envrc*
 /vendor/
+/.idea/
+.keep
+*.sh
+*.nix
