@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
-hash = "4443e008331d1edf9d69e59264d4c6c7dd07c9ea00fed0da92671991db117364"
+hash = "9292b14dfde8f171eee5e665ab33c2110aac8c772d390aeb80cb9e4d29edfdf6"
 metafile = true
 
 [[files]]
