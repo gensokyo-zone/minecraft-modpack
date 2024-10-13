@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -euxo pipefail
 
+git fetch --tags
 BRANCH=${GITHUB_REF:-$(git branch --show-current)}
 BRANCH=${BRANCH#refs/*/}
 echo 'TAG_DATA<<EOF' >> $GITHUB_OUTPUT
