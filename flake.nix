@@ -15,7 +15,7 @@
         minecraft = import ./shell.nix {
             inherit pkgs;
         };
-        default = minecraft;
+    default = minecraft;
     };
   });
 }

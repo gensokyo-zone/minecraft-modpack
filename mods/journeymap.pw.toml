@@ -1,18 +1,17 @@
 name = "JourneyMap"
-filename = "journeymap-1.20.1-5.10.2-forge.jar"
+filename = "journeymap-1.20.1-5.10.3-forge.jar"
 side = "both"
 
-[option]
-optional = true
-default = false
-description = "We prefer Xaero's over this since Journeymap is so performance intensive it intensely harms 1% lows"
-
 [download]
-url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/umkCqDao/journeymap-1.20.1-5.10.2-forge.jar"
-hash-format = "sha512"
-hash = "d9bffa62d1b24f2476cb90987ae95f11d1ec71be56f4d782daad70a47cf96548116309591b72f3963fc6ee90b36b3dd7b7abc498cd5361b0777446a326157b59"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/r7FWVNCs/journeymap-1.20.1-5.10.3-forge.jar"
+hash-format = "sha1"
+hash = "fdd97a782bdc6d0e28a851a9715abb190df47aa6"
 
 [update]
 [update.modrinth]
 mod-id = "lfHFW1mp"
-version = "umkCqDao"
+version = "r7FWVNCs"
+
+[option]
+optional = true
+description = "We prefer Xaero's over this since Journeymap is so performance intensive it intensely harms 1% lows"
