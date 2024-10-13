@@ -9,6 +9,8 @@ Import the release instance zip with "add instance" in the launcher. Happy gamin
 
 ## Contributing
 
+Please make pull requests against the [marka-1.20-develop](https://github.com/kittywitch/minecraft-modpack/tree/marka-1.20-develop) branch. Thank you.
+
 ### Installing / obtaining packwiz
 
 #### From any platform that is not Nix-enabled
