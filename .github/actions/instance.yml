@@ -1,0 +1,19 @@
+name: Build MultiMC Instance
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run build shell script
+        run: ./build-multimc-instance.sh
+      - name: Release
+        uses: softprops/action-gh-release@v2
+              - name: GH Release
+                uses: softprops/action-gh-release@v2.0.8
+                with:
+                  files: Marka Modpack 1.20.1.zip
+            
