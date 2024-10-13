@@ -18,11 +18,15 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "f552dabf693be8afba5ced5ea866fccf77df64f63d28c97720e76275b2579897"
+hash = "f3e788ca04d68054d3e62603305be3ec7563aac461dc6a3399001e50a11da06e"
 
 [[files]]
 file = "build-multimc-instance.sh"
 hash = "b92342f4f298e510f7c36303429cd2b8217ee82fa2e065898a1d2090879465ff"
+
+[[files]]
+file = "config/.keep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "defaultconfigs/.keep"
