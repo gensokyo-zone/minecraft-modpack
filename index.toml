@@ -833,6 +833,11 @@ hash = "d2fc6b33af43c171de6aa262b969033828143c0dc31a2e3135edb1548b5fa1dd"
 metafile = true
 
 [[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
+metafile = true
+
+[[files]]
 file = "mods/mysterious-mountain-lib.pw.toml"
 hash = "01075eaba722a88397b274b315885ea9c67d87274d998ab10e5d1b56091cf52f"
 metafile = true
