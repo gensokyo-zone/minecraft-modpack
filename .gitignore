@@ -1,2 +1,5 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude IntelliJ Configuration
+.idea/
