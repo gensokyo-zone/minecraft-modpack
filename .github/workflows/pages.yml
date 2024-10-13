@@ -9,4 +9,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Run build shell script
-        run: ./build-github-pages.sh
+        run: ./build/build-github-pages.sh
