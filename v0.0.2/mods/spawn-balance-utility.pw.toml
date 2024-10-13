@@ -1,0 +1,14 @@
+name = "Spawn Balance Utility"
+filename = "spawnbalanceutility-1.20-46.13.6.jar"
+side = "server"
+
+[download]
+mode = "metadata:curseforge"
+url = "https://kittywitch.github.io/minecraft-modpack/mods/spawnbalanceutility-1.20-46.13.6.jar"
+hash-format = "sha256"
+hash = "32df38628400b7e5d9e37f381f04dec525b5b64871b796087b2970e146548d20"
+
+[update]
+[update.curseforge]
+file-id = 5676207
+project-id = 486753

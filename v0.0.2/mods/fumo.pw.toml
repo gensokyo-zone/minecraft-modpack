@@ -1,0 +1,13 @@
+name = "Fumo"
+filename = "Fumo 16.0.0 1.20.1 Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Abkqr1E0/versions/tDGWbdv6/Fumo%2016.0.0%201.20.1%20Forge.jar"
+hash-format = "sha512"
+hash = "f7e43dc3df3fc26c13446982f6e1a6f57143c96c82fb99f0b13b7f9103766186d1d5e62c871e0e6bcd24ca4ff8ba1521a4749a25b35afe014a7347ab3ce6532c"
+
+[update]
+[update.modrinth]
+mod-id = "Abkqr1E0"
+version = "tDGWbdv6"
