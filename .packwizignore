@@ -9,3 +9,5 @@
 *.sh
 *.nix
 /build
+/.github
+*.yml
