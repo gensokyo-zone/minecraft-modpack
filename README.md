@@ -31,5 +31,5 @@ packwiz
 ### Working with packwiz
 
 * [Adding mods](https://packwiz.infra.link/tutorials/creating/adding-mods/)
-* [Cheat sheat](https://packwiz.infra.link/tutorials/creating/getting-started/#cheat-sheet)
+* [Cheat sheet](https://packwiz.infra.link/tutorials/creating/getting-started/#cheat-sheet)
 * Optional mods are managed via the [[option]](https://packwiz.infra.link/reference/pack-format/mod-toml/#option) part of a mod-specific .pw.toml file.
