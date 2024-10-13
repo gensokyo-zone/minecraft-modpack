@@ -1119,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-balance-utility.pw.toml"
-hash = "1716ad03a91d3eea0935fb9a275baeab764664197007bdbe4b5ea01530660b1f"
+hash = "2e59c19b8724d33f61f3d225786457bfc837ec830f22e5e72e09b1677c9ae4c8"
 metafile = true
 
 [[files]]
