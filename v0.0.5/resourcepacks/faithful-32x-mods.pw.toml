@@ -1,0 +1,11 @@
+name = "faithful-32x-mods"
+filename = "6f72av.zip"
+
+[option]
+optional = true
+default = false
+
+[download]
+url = "https://files.catbox.moe/6f72av.zip"
+hash-format = "sha256"
+hash = "ea7baa867eefe770e928fdf9bc83defa9bfbde838d2bfb4da365b95a8b915072"
