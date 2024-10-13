@@ -25,4 +25,5 @@ jobs:
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
-          content: "${{ steps.tag_message.outputs.TAG_DATA }}"
+          content: |
+            ${{ steps.tag_message.outputs.TAG_DATA }}
