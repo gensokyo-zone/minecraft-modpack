@@ -265,6 +265,11 @@ hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
+file = "mods/configbackuper.pw.toml"
+hash = "ccc35b490a2e2fb92df35ff7db25b7a4bc51ac1434e3021f20d051b7492345f4"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
 metafile = true
