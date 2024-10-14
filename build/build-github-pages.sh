@@ -12,7 +12,9 @@ git worktree add pages pages
 mkdir -p pages/${BRANCH}
 rsync --delete --exclude-from '.gitignore' --exclude-from '.packwizignore' --exclude '/.*' -av . ./pages/${BRANCH}
 
-ln -srft ./pages/ ./pages/${BRANCH}/*
+if [[ ${BRANCH} = "marka-1.20" ]]; then
+  ln -srft ./pages/ ./pages/${BRANCH}/*
+fi
 
 GIT_PREFIX="-C pages/"
 git ${GIT_PREFIX} add -A
