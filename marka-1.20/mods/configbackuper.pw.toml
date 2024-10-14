@@ -1,0 +1,13 @@
+name = "Config Backuper"
+filename = "config-backuper-forge-1.20-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iq6ne7Ra/versions/YAjkv3gw/config-backuper-forge-1.20-1.0.1.jar"
+hash-format = "sha1"
+hash = "ff18ae24c785cfbbb06e73d5f4d97c4866443c0d"
+
+[update]
+[update.modrinth]
+mod-id = "Iq6ne7Ra"
+version = "YAjkv3gw"
