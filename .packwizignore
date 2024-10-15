@@ -8,6 +8,7 @@
 /.idea/
 *.sh
 *.nix
+*.lock
 /build
 /.github
 *.yml
