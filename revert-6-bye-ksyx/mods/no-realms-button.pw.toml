@@ -1,0 +1,13 @@
+name = "No Realms Button"
+filename = "NoRealmsButton-1.0.4-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AMMUyCdF/versions/QYMWvMMq/NoRealmsButton-1.0.4-forge.jar"
+hash-format = "sha512"
+hash = "45c9c062b55bb4ba4692f2af8ceedae81abc860469a43a7f79dc37c3f50b722581e50b9b4f26d334cd76fb016f7e5fe93c2b55a36df9bbb74806af05a53a1146"
+
+[update]
+[update.modrinth]
+mod-id = "AMMUyCdF"
+version = "QYMWvMMq"
