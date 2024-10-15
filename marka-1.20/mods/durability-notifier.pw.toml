@@ -1,0 +1,13 @@
+name = "Durability Notifier"
+filename = "DurabilityNotifier-forge-1.20-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92f7927f115f826bc15cd14ebbdce69748b87156"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4574731
+project-id = 277095

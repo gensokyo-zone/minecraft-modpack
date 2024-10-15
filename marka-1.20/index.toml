@@ -408,6 +408,11 @@ hash = "534bc7a9ce2118f2e397d1ccb3158733dfff85ed1c8c98136d548eac531c32c7"
 metafile = true
 
 [[files]]
+file = "mods/durability-notifier.pw.toml"
+hash = "95a92f071bc65580adcb69a4bc359f126533219cdd141c607e1c35c83db60d85"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "0bd3d604bc61c7460977b177bd9db979a6c235c55e8d1cd981dba1620ec80af8"
 metafile = true
