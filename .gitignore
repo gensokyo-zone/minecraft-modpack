@@ -10,3 +10,7 @@
 
 # Exclude github pages worktree
 /pages
+
+# Exclude direnv
+/.direnv
+/.envrc*

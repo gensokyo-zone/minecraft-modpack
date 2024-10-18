@@ -3,11 +3,23 @@
 
 # Exclude README
 /README.md
+
+# Exclude direnv
+/.direnv
 /.envrc*
+
+# Vendored
 /vendor/
-/.idea/
+
+# Nix
 *.sh
 *.nix
+*.lock
+
+# CI / build stuffs
 /build
 /.github
 *.yml
+
+# IntelliJ eat your heart out
+/.idea/
