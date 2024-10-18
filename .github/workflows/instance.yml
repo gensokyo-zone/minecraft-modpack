@@ -6,6 +6,10 @@ on:
     tags:
       - "*v*.*.*"
 
+concurrency:
+  group: "instance"
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
