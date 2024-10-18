@@ -206,6 +206,11 @@ hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
 metafile = true
 
 [[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "a119c6e5a47fab7af4aabfb2248fbf2bf22a53548ab21f24335333ac385c641f"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c5aab2d7b364e5f67b7a4a2b6665465c813f3205628a560cbfaee4d8ca9f83a0"
 metafile = true
@@ -306,6 +311,11 @@ hash = "4c5514c5bcc84db6210301b07dd8ac168bdd5eb243bac3a59c8592408ab4f3a1"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "c636979fe6705452c913fecba3dd590c0feb83ddbccdf6e8ec5e921c9681c769"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "db975ac6f7723fa6230f64ce45b0986774437c4429237f62299e3de71b32b372"
 metafile = true
@@ -377,12 +387,12 @@ metafile = true
 
 [[files]]
 file = "mods/dense-mekanism.pw.toml"
-hash = "192398beb9ec13558f30520371b80b5bbbc5cb790a07d54ce1a675de450f2ecb"
+hash = "c74a85cd7d2b1d7171861ae9ed345a55ebc66e405210617ec9aa165f1884aeb8"
 metafile = true
 
 [[files]]
 file = "mods/dense-ores-abundant.pw.toml"
-hash = "1b902be6af89a1075f18b4092c2de832f042fbeee3ce415b7c3f7e6a0ec5f72f"
+hash = "af64b0ef8e839c8bfff0d68c4e4da9aea82b55b8f2aa1a2590a40b163718ab24"
 metafile = true
 
 [[files]]
@@ -471,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "56b356fd753d4d9debdb433f57e4b390d457a776ad9413d1e9008c76b0163908"
+metafile = true
+
+[[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
 
 [[files]]
@@ -624,6 +639,11 @@ hash = "7ad59c181decf0d0f47c827354989ecea02965cf22dc795cd5bd286ed466937b"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "5b48372860758d2397c7decafaba7a318661726b3af02279d41db55cabefb07a"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "3040dc0e422d8ffa85d44d4be9466fe7eebfdf631cb998491b30c5c931cc75fd"
 metafile = true
@@ -636,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "854fee4f67f647fe73d95363dbbae8ec7f31e6e410e7f219958bc994d94e97b9"
+metafile = true
+
+[[files]]
+file = "mods/kontraption.pw.toml"
+hash = "bc8915f9f37a3ad69b5570cd16a5679f17365a206bad1ae74ef0c4fc7198c00c"
 metafile = true
 
 [[files]]
@@ -1125,7 +1150,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-balance-utility.pw.toml"
-hash = "2e59c19b8724d33f61f3d225786457bfc837ec830f22e5e72e09b1677c9ae4c8"
+hash = "56d7fe6de1a0fdd738ab1180c05651921f7feca527a7434e4cbeb899d5f203ff"
 metafile = true
 
 [[files]]
@@ -1273,6 +1298,16 @@ hash = "75cb589040da1a27f5ef0aae945a9b0c67debd4b37126dd8384b878c7e019fba"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "a81bf0ab0bbdb71f9e360a5d6b6051b118ac424d84505aab6130ddcce9e59a4e"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
+metafile = true
+
+[[files]]
 file = "mods/vampires-delight.pw.toml"
 hash = "8e5ecc6ff145e64a897e77c43b87f66aa71956da30fc729364564671eac256f3"
 metafile = true
@@ -1353,6 +1388,21 @@ hash = "cb92831ae1333084aee2e0582ad76e074ee902f76939b2e2c4d288b831d27f1a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/colorful-nixies.pw.toml"
+hash = "4c0fdefa84f8414640efc4c455e997f06d15cc1c706aa9f7db8504101276f35a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "92330acf54623b70104adb84139372a43045cff7066e7068da757a4de212b07d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-ultra-pbr.pw.toml"
+hash = "ec6466a5443c348f8bce8a8deab9aa289194f99c92de61d974643ce87cde3e83"
+metafile = true
+
+[[files]]
 file = "resourcepacks/faithful-32x-mods.pw.toml"
 hash = "7331f900afc5a6a972d69883c648e65dd4a9b564a41c82065b2b9c4c9b8b56bd"
 metafile = true
@@ -1363,13 +1413,14 @@ hash = "0adbfa08f152538ef8534c1d819927b45f3f7b6cd0e88549539b7fb9fbb35d39"
 metafile = true
 
 [[files]]
-file = "resourcepacks/refined-storage-recreated.pw.toml"
-hash = "28aecc26c20ba5bd27d56ffdc50f52cc4374a9057905c0aaf64f6a25ef32dfc8"
+file = "resourcepacks/refined-storage-jappafied.pw.toml"
+hash = "bad18e5a09721f986331144581ee038384a78c8a3fa94888215450da63647ef0"
 metafile = true
 
 [[files]]
-file = "servers.dat"
-hash = "fa4997a9e4ed23649c103ef6c59352a57e33bc5af795f64ee679bf8d99adeaa8"
+file = "resourcepacks/refined-storage-recreated.pw.toml"
+hash = "28aecc26c20ba5bd27d56ffdc50f52cc4374a9057905c0aaf64f6a25ef32dfc8"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

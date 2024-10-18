@@ -1,0 +1,18 @@
+name = "Refined Storage Jappafied"
+filename = "Refined Storage Jappafied v1.5.zip"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = "Load after Refined Storage: Recreated if you use it"
+
+[download]
+url = "https://cdn.modrinth.com/data/bytGTDNE/versions/NNMxUDD9/Refined%20Storage%20Jappafied%20v1.5.zip"
+hash-format = "sha1"
+hash = "f6091373b4e839448027d8f40c14d949045541d8"
+
+[update]
+[update.modrinth]
+mod-id = "bytGTDNE"
+version = "NNMxUDD9"
