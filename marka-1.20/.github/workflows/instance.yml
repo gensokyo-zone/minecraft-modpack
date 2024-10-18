@@ -1,0 +1,30 @@
+name: Build MultiMC Instance
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "*v*.*.*"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run build shell script
+        run: ./build/build-multimc-instance.sh
+      - name: GH Release
+        uses: softprops/action-gh-release@v2.0.8
+        with:
+          files: Marka Modpack 1.20.1.zip
+      - name: Get tag message
+        id: tag_message
+        run: ./build/get-tag-description.sh
+      - name: Discord Webhook Action
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.WEBHOOK_URL }}
+          embed-title: ${{ steps.tag_message.outputs.TAG_SUBJECT }}
+          embed-description: ${{ steps.tag_message.outputs.TAG_BODY }}
+          embed-url: ${{ steps.tag_message.outputs.TAG_URL }}
