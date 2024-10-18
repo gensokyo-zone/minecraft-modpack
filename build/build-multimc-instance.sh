@@ -18,7 +18,7 @@ cp ./vendor/multimc/* "${BUILD_DIR}"
 
 PACKWIZ_PATH="${BUILD_DIR_MC}/packwiz-installer-bootstrap.jar"
 echo "Obtaining the latest packwiz installer bootstrap jar and placing it at ${PACKWIZ_PATH}"
-wget https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar -O "${PACKWIZ_PATH}"
+curl -LfSs https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar -o "${PACKWIZ_PATH}"
 
 echo "Creating a Prism Launcher / MultiMC / PolyMC compatible instance zip"
 OUTPUT_DIR=${PWD}
