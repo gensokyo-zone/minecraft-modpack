@@ -1389,12 +1389,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/colorful-nixies.pw.toml"
-hash = "4c0fdefa84f8414640efc4c455e997f06d15cc1c706aa9f7db8504101276f35a"
+hash = "306d9428e0ac278bad9a347e6b5a8c318132267898756f07b5f7f6c8d5a02357"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
-hash = "92330acf54623b70104adb84139372a43045cff7066e7068da757a4de212b07d"
+hash = "e07c94c532b5196b82b9ef902537e1006516f95e9b93b7dd0469d3d3947be82a"
 metafile = true
 
 [[files]]
@@ -1414,7 +1414,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/refined-storage-jappafied.pw.toml"
-hash = "bad18e5a09721f986331144581ee038384a78c8a3fa94888215450da63647ef0"
+hash = "9e44a47ed6fed50788480268d329abed821cc373c4a1073cf1ec077bdfb6a70d"
 metafile = true
 
 [[files]]
