@@ -13,6 +13,7 @@ mkdir -p pages/${BRANCH}
 rsync --delete --exclude-from '.gitignore' --exclude-from '.packwizignore' --exclude '/.*' -av . ./pages/${BRANCH}
 
 if [[ ${BRANCH} = "marka-1.20" ]]; then
+  find ./pages/ -maxdepth 1 -type l -delete
   ln -srft ./pages/ ./pages/${BRANCH}/*
 fi
 
