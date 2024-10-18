@@ -10,4 +10,4 @@ echo 'COMMIT_BODY<<EOF' >> $GITHUB_OUTPUT
 git log -n1 ${BRANCH} --format="%b" >> $GITHUB_OUTPUT
 echo 'EOF' >> $GITHUB_OUTPUT
 REF=$(git log -n1 ${BRANCH} --format="%H")
-echo "COMMIT_URL=https://github.com/kittywitch/minecraft-modpack/commit/${REF}" >> $GITHUB_OUTPUT
+echo "COMMIT_URL=https://github.com/gensokyo-zone/minecraft-modpack/commit/${REF}" >> $GITHUB_OUTPUT

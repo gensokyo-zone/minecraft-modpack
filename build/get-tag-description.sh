@@ -10,4 +10,4 @@ echo 'EOF' >> $GITHUB_OUTPUT
 echo 'TAG_BODY<<EOF' >> $GITHUB_OUTPUT
 git tag -n1 "$BRANCH" --format=$'%(contents:body)' >> $GITHUB_OUTPUT
 echo 'EOF' >> $GITHUB_OUTPUT
-echo "TAG_URL=https://github.com/kittywitch/minecraft-modpack/releases/tag/${BRANCH}" >> $GITHUB_OUTPUT
+echo "TAG_URL=https://github.com/gensokyo-zone/minecraft-modpack/releases/tag/${BRANCH}" >> $GITHUB_OUTPUT
