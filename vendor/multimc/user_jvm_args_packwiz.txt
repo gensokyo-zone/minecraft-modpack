@@ -1,0 +1,2 @@
+# otherwise can crash on X11 with "Unsupported bit depth: 30"
+-Dsun.java2d.opengl=true
