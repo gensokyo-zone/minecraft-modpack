@@ -1,0 +1,18 @@
+name = "Colorful Nixies"
+filename = "ColorfulNixies.zip"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = "Cute colourful nixie tubes"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gy8bflzI/versions/KMHgM1cs/ColorfulNixies.zip"
+hash-format = "sha1"
+hash = "b83e237ab27d493acd518da8b2328eb7480ac106"
+
+[update]
+[update.modrinth]
+mod-id = "Gy8bflzI"
+version = "KMHgM1cs"

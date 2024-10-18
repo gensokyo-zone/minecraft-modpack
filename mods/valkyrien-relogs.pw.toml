@@ -1,0 +1,13 @@
+name = "Valkyrien Relogs"
+filename = "valkyrienrelogs-0.3.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8zXPcyAo/versions/KkIoDS4h/valkyrienrelogs-0.3.0-forge.jar"
+hash-format = "sha1"
+hash = "e70f35486245736d1a346a5895bf05e561dffb0a"
+
+[update]
+[update.modrinth]
+mod-id = "8zXPcyAo"
+version = "KkIoDS4h"
