@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "flake.lock"
-hash = "7824bec72d937ed4277b9189d7563e6b657d635b04bb24bd2bb4b3df3d997517"
-
-[[files]]
 file = "mods/ad-astra-extra.pw.toml"
 hash = "7edfce8b7a14c72f55c921c3cfb3a6ff8490db14139d72466038e68465da23c6"
 metafile = true
