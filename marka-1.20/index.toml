@@ -387,12 +387,12 @@ metafile = true
 
 [[files]]
 file = "mods/dense-mekanism.pw.toml"
-hash = "c74a85cd7d2b1d7171861ae9ed345a55ebc66e405210617ec9aa165f1884aeb8"
+hash = "429534ec1762ebb636b20aa105c764553528c762fffff65b9eda5a546714823a"
 metafile = true
 
 [[files]]
 file = "mods/dense-ores-abundant.pw.toml"
-hash = "af64b0ef8e839c8bfff0d68c4e4da9aea82b55b8f2aa1a2590a40b163718ab24"
+hash = "f9ec0897a457122c118643c37929b964a9f52140f194cd8402b18781e5c24e17"
 metafile = true
 
 [[files]]
@@ -656,11 +656,6 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "854fee4f67f647fe73d95363dbbae8ec7f31e6e410e7f219958bc994d94e97b9"
-metafile = true
-
-[[files]]
-file = "mods/kontraption.pw.toml"
-hash = "bc8915f9f37a3ad69b5570cd16a5679f17365a206bad1ae74ef0c4fc7198c00c"
 metafile = true
 
 [[files]]
@@ -1150,7 +1145,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-balance-utility.pw.toml"
-hash = "56d7fe6de1a0fdd738ab1180c05651921f7feca527a7434e4cbeb899d5f203ff"
+hash = "f54b9a2a5db0cc1352eb1613d4849d0b07035e714321a8ec154de9dba128c512"
 metafile = true
 
 [[files]]
