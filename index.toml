@@ -404,6 +404,11 @@ hash = "534bc7a9ce2118f2e397d1ccb3158733dfff85ed1c8c98136d548eac531c32c7"
 metafile = true
 
 [[files]]
+file = "mods/durability-notifier.pw.toml"
+hash = "95a92f071bc65580adcb69a4bc359f126533219cdd141c607e1c35c83db60d85"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "0bd3d604bc61c7460977b177bd9db979a6c235c55e8d1cd981dba1620ec80af8"
 metafile = true
@@ -421,11 +426,6 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "f3f7be7bc93fb265b44c8d18b072b026dd32c05d7ecdf8bd5d5f0a74c6794d4b"
-metafile = true
-
-[[files]]
-file = "mods/elevatormod.pw.toml"
-hash = "875844f4a9507a8b43b3118258af55a051c49e9a8b81be9ed3d4193e0a351b59"
 metafile = true
 
 [[files]]
@@ -941,6 +941,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "f79cb80b6ea599fe4ca9404465277ff7edf25118976170c28827590febfcee7a"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-terracotta.pw.toml"
+hash = "a8c29629cbeffbd92eab35e1dee547bcaf774ca31cfd69008b7c1f70bc1e1a0e"
 metafile = true
 
 [[files]]
