@@ -1024,6 +1024,11 @@ hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "4130bd83dcd7f216f29d242ac956a06018345a7150d3bac3fa83c8c19881679e"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "ce0fde07ed8f70f9eb4f17e0fbc6002c47e2b11be54e3633d0a5c82ce043e9de"
 metafile = true
