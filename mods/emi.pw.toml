@@ -14,4 +14,4 @@ version = "lL5Etb2g"
 
 [option]
 optional = true
-description = "Do not include this if you select Controllable, they are mutually exclusive! JEI improvements."
+description = "Do not include this if you select Controllable, they are mutually exclusive! JEI improvements. Requires JEI"
