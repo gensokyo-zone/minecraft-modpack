@@ -3,7 +3,7 @@ filename = "jeiintegration_1.20.1-10.0.0.jar"
 side = "both"
 
 [option]
-optiomal = true
+optional = true
 default = true
 description = "JEI helper"
 
