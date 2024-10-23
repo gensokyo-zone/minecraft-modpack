@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "9859af87580540f0bc010a7e0603371eea5735367099749a23bf7b89fb03a640"
+hash = "5099a9a49d3fc8a98568eae8b132c4061d8a095c88ac5d080e6ac27ae4852f41"
 metafile = true
 
 [[files]]
@@ -645,12 +645,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei-integration.pw.toml"
-hash = "06476837027569174dc086ae42b7c8055814f9b8d9f1376b862fc4c54e96e0bd"
+hash = "cb7f58148defb63e89122ec1fa825b0f9b6ca9143d212c70675d7a7123dd6c7c"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3040dc0e422d8ffa85d44d4be9466fe7eebfdf631cb998491b30c5c931cc75fd"
+hash = "d02ff66699578c5a23aa1ff1f296fe934d26ff3586972fbdb74b6c5f8110ddb4"
 metafile = true
 
 [[files]]
@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "4130bd83dcd7f216f29d242ac956a06018345a7150d3bac3fa83c8c19881679e"
+hash = "04d5f0d3567378198d19ced187f0675cb33b5c0e300b7e7dc4078f97ee491f23"
 metafile = true
 
 [[files]]
