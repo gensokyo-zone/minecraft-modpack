@@ -21,7 +21,7 @@ jobs:
       - name: GH Release
         uses: softprops/action-gh-release@v2.0.8
         with:
-          files: Marka Modpack 1.20.1.zip
+          files: kagpack.zip
       - name: Get tag message
         id: tag_message
         run: ./build/get-tag-description.sh
