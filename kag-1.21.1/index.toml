@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar"
-hash = "ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a"
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
