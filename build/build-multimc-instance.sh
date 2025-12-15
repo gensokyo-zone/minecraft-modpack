@@ -10,6 +10,10 @@ echo "Copying vendored datapacks to ${BUILD_DIR_MC}"
 mkdir "${BUILD_DIR_MC}"
 cp -r ./vendor/datapacks "${BUILD_DIR_MC}"
 
+echo "Copying vendored mods to ${BUILD_DIR_MC}/mods"
+mkdir "${BUILD_DIR_MC}/mods"
+cp -r "./mods/*.jar" "${BUILD_DIR_MC}/mods"
+
 echo "Copying vendored server list to ${BUILD_DIR_MC}"
 cp ./vendor/servers.dat "${BUILD_DIR_MC}"
 
