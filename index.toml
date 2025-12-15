@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "a7106733a50e990ff6432c71b3d3f629bad9b2e200d97b88770f5ec282e1b6c8"
+hash = "961f4beac059fdf92d30532b24f95b700836a902c13fcdfb2e5763f4d5a52471"
 metafile = true
 
 [[files]]
