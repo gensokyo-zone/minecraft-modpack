@@ -1,0 +1,17 @@
+name = "Vivecraft"
+filename = "vivecraft-1.21.1-1.3.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/uKrnbJ7c/vivecraft-1.21.1-1.3.4-neoforge.jar"
+hash-format = "sha1"
+hash = "c0a9fbd026b1439a7b81016638b73f00a696f578"
+
+[update]
+[update.modrinth]
+mod-id = "wGoQDPN5"
+version = "uKrnbJ7c"
+
+[option]
+optional = false
+default = true

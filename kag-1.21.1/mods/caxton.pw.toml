@@ -1,0 +1,13 @@
+name = "Caxton"
+filename = "caxton-0.6.0+1.21.1-NEOFORGE.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k8iIgzXE/versions/OmKTl2y6/caxton-0.6.0%2B1.21.1-NEOFORGE.jar"
+hash-format = "sha1"
+hash = "48609b1838284920af6d8dcda0cc87619f3862e8"
+
+[update]
+[update.modrinth]
+mod-id = "k8iIgzXE"
+version = "OmKTl2y6"

@@ -1,0 +1,13 @@
+name = "Log Begone"
+filename = "logbegone-neoforge-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9ON3zv6e/versions/1OrkaiPD/logbegone-neoforge-1.21.1-1.0.3.jar"
+hash-format = "sha1"
+hash = "ee401552a031798993fffb7c9761742bdf6789e8"
+
+[update]
+[update.modrinth]
+mod-id = "9ON3zv6e"
+version = "1OrkaiPD"

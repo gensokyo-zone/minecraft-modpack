@@ -1,0 +1,17 @@
+name = "Waystones PBR"
+filename = "Waystones PBR_emissive.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4r0csTqq/versions/3sW4FBZW/Waystones%20PBR_emissive.zip"
+hash-format = "sha1"
+hash = "710c34756ce6a2f7439dc524d672ade21d8de57f"
+
+[update]
+[update.modrinth]
+mod-id = "4r0csTqq"
+version = "3sW4FBZW"
+
+[option]
+optional = false
+default = true
