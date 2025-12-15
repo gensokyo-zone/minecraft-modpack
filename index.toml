@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "a1f3d40db0eebb3cfd1d33744261a683257c69a7323e3386bcc07f4fb210d3ef"
+hash = "572ec30df178f91ceb48c1f4859f0a3febc98674505e9b212265495a8198f9b6"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "4d5c970bbd932e63ee2cc9c524ae343eea0e5ca587c0f4ff3d51d3475e34ea89"
+hash = "6b29c9cfa99efdcedb5c8b39b22627cfedcc29ed67d1c8a5fe67d03a12c22b85"
 metafile = true
 
 [[files]]
@@ -481,30 +481,30 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "953a4730f0a600a4fbd1693a8b3b88a64f3b88e5fd4a45cfabe21b20b877e005"
+hash = "c420305a0591cab4138994c3b4f02f91d471f682a06344840a4c502cb94a1070"
 metafile = true
 
 [[files]]
 file = "resourcepacks/spbr-glowingore.pw.toml"
-hash = "7b5f435802fd2f4466607e0ff613c807f3697810dccaa564637bf72f7d20100b"
+hash = "96eae6265efd45cd848a76df0858d5add08c697c0a16a6a9c2ce21047b26d093"
 metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "39b7294e864d1056d65606e9e88e16ff68efeea2b57dcdfb98fe4fc70b4d56fe"
+hash = "2be28139da1fc46ac70e8dc66da42a44d2b9543bac39c8b8c946b1e5d998ca19"
 metafile = true
 
 [[files]]
 file = "resourcepacks/vanilla-mashup-pbr.pw.toml"
-hash = "aff3f55c924ee18f6ad38b616eefe021dac86de306a0dab8fccdbb3f3c17de6c"
+hash = "5cc0f9c25510ae45d0071fb5122995659afeced8e83bb413d0eb40139275019a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/waystones-pbr.pw.toml"
-hash = "f493ed4bf5b479ea06155a66e74e1b7209735a6ea391251bccf208307a83e97d"
+hash = "328c0e74b64f039b227664983efe27f67b3986667478b03ac1bfce4f4605172b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "415e97fe55a3c3ac383d269e0744c70c030a7ef614dd77f023933d0ce6d183be"
+hash = "baaaab7e171990026e1793992b92fb4ff473d2a20691983d8814f3397800c4f2"
 metafile = true
