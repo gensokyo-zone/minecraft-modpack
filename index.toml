@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "572ec30df178f91ceb48c1f4859f0a3febc98674505e9b212265495a8198f9b6"
+hash = "11167b14004be1d50692237579ded56187d7e9e075b7aa775da118edafdb53af"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "6b29c9cfa99efdcedb5c8b39b22627cfedcc29ed67d1c8a5fe67d03a12c22b85"
+hash = "d654135f7c354ebcebba0e280c39ea6480d578bb624de820a034fef10adffff7"
 metafile = true
 
 [[files]]
