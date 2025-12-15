@@ -1,0 +1,17 @@
+name = "Controlify (Controller support)"
+filename = "controlify-2.4.4+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/tVXp3YKm/controlify-2.4.4%2B1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "e5930b525007fb85bb3f77f96712a871dcdb1b18"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "tVXp3YKm"
+
+[option]
+optional = false
+default = true

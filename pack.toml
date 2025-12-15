@@ -1,13 +1,13 @@
-name = "Marka Modpack"
-author = "it's a real group effort o:"
+name = "kagpack"
+author = "kat"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f68bdc22aac472506c14fcb90606828d59a6c6ea7167ab94c8b708d2bee704b7"
+hash = "883db6fd45397a1f445ddeefc8ea69e0d578ec308092cac328b26d17b4b63297"
 
 [versions]
-forge = "47.3.10"
-minecraft = "1.20.1"
+minecraft = "1.21.1"
+neoforge = "21.1.216"

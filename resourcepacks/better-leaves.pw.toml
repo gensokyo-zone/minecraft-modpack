@@ -1,0 +1,17 @@
+name = "Motschen's Better Leaves"
+filename = "Better-Leaves-9.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uvpymuxq/versions/JW14JsXq/Better-Leaves-9.4.zip"
+hash-format = "sha1"
+hash = "4caada00aa07d45c9795079dd78a6c07aa644376"
+
+[update]
+[update.modrinth]
+mod-id = "uvpymuxq"
+version = "JW14JsXq"
+
+[option]
+optional = false
+default = true
