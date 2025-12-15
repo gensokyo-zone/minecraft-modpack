@@ -1,5 +1,21 @@
-# Marka Modpack
-Matri, arc and kat's modpack - for Minecraft 1.20.1 with Forge.
+# kagpack
+
+iunno, the VR stuff is particularly complex, for VR
+
+you'll need:
+
+
+```
+-XX:+UseZGC
+```
+
+and to set everything to 12GiB
+
+if you're running a non-parenting window manager (most tiling window managers):
+
+```
+_JAVA_AWT_WM_NONREPARENTING=1
+```
 
 ## Usage / Playing
 
@@ -8,8 +24,6 @@ We recommend the use of Prism Launcher above the other MultiMC-compatibles/deriv
 Import the release instance zip with "add instance" in the launcher. Happy gaming, gamer! ^_^
 
 ## Contributing
-
-Please make pull requests against the [marka-1.20-develop](https://github.com/gensokyo-zone/minecraft-modpack/tree/marka-1.20-develop) branch. Thank you.
 
 ### Installing / obtaining packwiz
 
