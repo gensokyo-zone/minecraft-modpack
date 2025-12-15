@@ -11,3 +11,8 @@ hash = "75d8dfd62c79af485095adcc30351612024454fd"
 [update.modrinth]
 mod-id = "4H6sumDB"
 version = "ZJvpKsmV"
+
+[option]
+optional = true
+default = false
+description = "If you want to install this, please install Complementary Shaders also."
