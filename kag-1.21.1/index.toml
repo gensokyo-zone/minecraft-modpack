@@ -121,18 +121,13 @@ hash = "ee3d73568970cbc1789484a4aee0c14424bcd0fd6db5d37a002010e26a7d90c9"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
-hash = "c994836d4261db437bf7cfc92f7427abb0c115fcc6aa4d01dd3878a4f650e7b9"
-metafile = true
-
-[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "ccf9e64814aea3a7c29689a9f2509002976428bdb798119cb32cdbd655456a07"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "656479a20eb9725cb38aa579e015069ff7419e9ce10a56a9bc9d21cfaeb39dbb"
+hash = "11167b14004be1d50692237579ded56187d7e9e075b7aa775da118edafdb53af"
 metafile = true
 
 [[files]]
@@ -272,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "403bffe616e30739e3cffcb7777517ad27bee7caf27395fb4b4bb3e4400c1792"
+hash = "961f4beac059fdf92d30532b24f95b700836a902c13fcdfb2e5763f4d5a52471"
 metafile = true
 
 [[files]]
@@ -626,11 +621,6 @@ hash = "98adb11043276328e0bb852c280e2c499008c0716de7d70ffa40f5b91c675857"
 metafile = true
 
 [[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "b1d493b001787b4074512b6d1e2ea36854b634d8d571843d4cfccdd69ae8d188"
-metafile = true
-
-[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "c00a6ef6f5e855b3144ad48f5df41d05150c5d11cecd558704f9b827b756300d"
 metafile = true
@@ -647,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "9522cb527277def2ced20bea7982756f8b4e11488587f0e89f3893071ca5b88b"
+hash = "d654135f7c354ebcebba0e280c39ea6480d578bb624de820a034fef10adffff7"
 metafile = true
 
 [[files]]
@@ -747,30 +737,30 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "a4a276ddccd408e2f7fc2a6848dfdfdf1d2e461402df7060d758fc303ba2d96a"
+hash = "c420305a0591cab4138994c3b4f02f91d471f682a06344840a4c502cb94a1070"
 metafile = true
 
 [[files]]
 file = "resourcepacks/spbr-glowingore.pw.toml"
-hash = "f1941be8b93f10fa1145299dae69bc87b74d0fd23ce696fc7417e74a5892e88c"
+hash = "96eae6265efd45cd848a76df0858d5add08c697c0a16a6a9c2ce21047b26d093"
 metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "858db8cc6b976bfaf9a8995fc636d65f0c659e4d587151bf596f9c556523fa73"
+hash = "2be28139da1fc46ac70e8dc66da42a44d2b9543bac39c8b8c946b1e5d998ca19"
 metafile = true
 
 [[files]]
 file = "resourcepacks/vanilla-mashup-pbr.pw.toml"
-hash = "f7cd7e20101e540ff2ea1a8dc783f1c60e96fff2e6ad5ec0ffe1f32c4e2fe9da"
+hash = "5cc0f9c25510ae45d0071fb5122995659afeced8e83bb413d0eb40139275019a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/waystones-pbr.pw.toml"
-hash = "d8e43db1314e27487f5021c36a7c591973a23c67c1849d0cf1be1ad85fc7bda0"
+hash = "328c0e74b64f039b227664983efe27f67b3986667478b03ac1bfce4f4605172b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8402a297ca107cd24cab32c9cdb1e62a66d51eb058268c1da4e5e2027d7605bf"
+hash = "baaaab7e171990026e1793992b92fb4ff473d2a20691983d8814f3397800c4f2"
 metafile = true
