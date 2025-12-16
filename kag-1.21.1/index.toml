@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-modification.pw.toml"
-hash = "6b1d17d24a2c847a74bccd8e270d58949b18e8709397a28cff0247cca6ee5b8b"
+hash = "6d112451c4eee09793eb49f05ea2601e93a3a942f545b1bbc393825d1a908b04"
 metafile = true
 
 [[files]]

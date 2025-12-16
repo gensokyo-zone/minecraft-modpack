@@ -13,5 +13,5 @@ mod-id = "wGoQDPN5"
 version = "uKrnbJ7c"
 
 [option]
-optional = false
+optional = true
 default = false
