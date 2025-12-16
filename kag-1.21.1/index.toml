@@ -536,6 +536,11 @@ hash = "fba0893c1da8c6e93beb9dac0e03228ebc108e3016a44d43c6e4d1faea2a16f2"
 metafile = true
 
 [[files]]
+file = "mods/recipe-modification.pw.toml"
+hash = "6b1d17d24a2c847a74bccd8e270d58949b18e8709397a28cff0247cca6ee5b8b"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c9d26b8a710c0f4b59222216e484a0f31c48d50eed7516c8a57174f87b31030c"
 metafile = true
@@ -733,11 +738,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "696ed53828d0c9737a800fffebb9d5d064e569f1c00b47ec6d71dc320f40c7f0"
-metafile = true
-
-[[files]]
-file = "mods/yungs-cave-biomes.pw.toml"
-hash = "900995ea5558e0f6f16b049a9fcdb4daac4f8b32de7591ff1628f9563f72614b"
 metafile = true
 
 [[files]]
