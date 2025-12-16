@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Forbidden And Arcanus"
+filename = "dtforbiddenarcanus-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21274fbc64082d06ef49ea8ab5896025f4cf598f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7290292
+project-id = 416698

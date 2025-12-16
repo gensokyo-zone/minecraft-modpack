@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Cobblemon"
+filename = "dtcobblemon-1.2.0-BETA04.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fWeFCAKx/versions/WnI0QxOY/dtcobblemon-1.2.0-BETA04.jar"
+hash-format = "sha1"
+hash = "3bbbf40d8bece5bdb2caf8c3322bcb46bc1d03e3"
+
+[update]
+[update.modrinth]
+mod-id = "fWeFCAKx"
+version = "WnI0QxOY"

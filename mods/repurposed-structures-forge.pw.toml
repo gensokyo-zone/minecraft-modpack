@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Neoforge/Forge"
+filename = "repurposed_structures-7.5.17+1.21.1-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QDNS5oAT/versions/JZcQ5o4Z/repurposed_structures-7.5.17%2B1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "2079a66cda18db8095c27808f95194b752ca704a"
+
+[update]
+[update.modrinth]
+mod-id = "QDNS5oAT"
+version = "JZcQ5o4Z"
