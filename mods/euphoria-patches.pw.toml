@@ -13,6 +13,6 @@ mod-id = "4H6sumDB"
 version = "ZJvpKsmV"
 
 [option]
-optional = false
+optional = true
 default = false
 description = "If you want to install this, please install Complementary Shaders also."
