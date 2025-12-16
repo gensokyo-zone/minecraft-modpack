@@ -1,0 +1,13 @@
+name = "Dynamic Trees"
+filename = "dynamictrees-neoforge-1.21.1-1.6.0-BETA03.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vdjF5PL5/versions/2NXaE6II/dynamictrees-neoforge-1.21.1-1.6.0-BETA03.jar"
+hash-format = "sha1"
+hash = "c247ce38decec0e2241727269015f5b8bdd0b0a7"
+
+[update]
+[update.modrinth]
+mod-id = "vdjF5PL5"
+version = "2NXaE6II"

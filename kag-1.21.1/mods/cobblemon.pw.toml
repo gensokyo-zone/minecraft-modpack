@@ -1,0 +1,13 @@
+name = "Cobblemon"
+filename = "Cobblemon-neoforge-1.7.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MdwFAVRL/versions/Uz1QF4Md/Cobblemon-neoforge-1.7.1%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "8135b55ab1ae2aaaaf6f44883a757f7c5aee3420"
+
+[update]
+[update.modrinth]
+mod-id = "MdwFAVRL"
+version = "Uz1QF4Md"
