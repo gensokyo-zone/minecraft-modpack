@@ -1,0 +1,17 @@
+name = "Create: Glowing Ores"
+filename = "CreateGlowingOres.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X9D0qBAi/versions/QG7FANe4/CreateGlowingOres.zip"
+hash-format = "sha1"
+hash = "174cb362f6c8c139d89f7194abd0f8b8dea68615"
+
+[update]
+[update.modrinth]
+mod-id = "X9D0qBAi"
+version = "QG7FANe4"
+
+[option]
+optional = true
+default = false

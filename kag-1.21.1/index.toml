@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "11167b14004be1d50692237579ded56187d7e9e075b7aa775da118edafdb53af"
+hash = "656479a20eb9725cb38aa579e015069ff7419e9ce10a56a9bc9d21cfaeb39dbb"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "961f4beac059fdf92d30532b24f95b700836a902c13fcdfb2e5763f4d5a52471"
+hash = "403bffe616e30739e3cffcb7777517ad27bee7caf27395fb4b4bb3e4400c1792"
 metafile = true
 
 [[files]]
@@ -333,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-portals-for-forge.pw.toml"
 hash = "108c7e2d358cc4f05c3325fdd06aede140404697328edc6528edcbe2429cb225"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "cb04650ce6f7f7a616507049a2d72693016eb63194216f534fce2235bfb2caab"
 metafile = true
 
 [[files]]
@@ -551,11 +556,6 @@ hash = "4c1a6e9e4d3a712ce1e1138269524caaac8acf2ba7710ef7b1cde90effae285c"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "ee683b3c4f715603d2c95f98df4e5bc057d347bece51af29b47831c7ce637c41"
-metafile = true
-
-[[files]]
 file = "mods/sleep-tight.pw.toml"
 hash = "dec11cc3c2e185f9b688fa7d4ef52017d9f443a5e2593fffbd099a3b478a91a0"
 metafile = true
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "d654135f7c354ebcebba0e280c39ea6480d578bb624de820a034fef10adffff7"
+hash = "9522cb527277def2ced20bea7982756f8b4e11488587f0e89f3893071ca5b88b"
 metafile = true
 
 [[files]]
@@ -737,30 +737,35 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "c420305a0591cab4138994c3b4f02f91d471f682a06344840a4c502cb94a1070"
+hash = "a4a276ddccd408e2f7fc2a6848dfdfdf1d2e461402df7060d758fc303ba2d96a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-glowing-ores.pw.toml"
+hash = "9da2ce6ff47b8399b9c2dd50fcc913970c67f3105216c0d22f7206a9553b1bf5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/spbr-glowingore.pw.toml"
-hash = "96eae6265efd45cd848a76df0858d5add08c697c0a16a6a9c2ce21047b26d093"
+hash = "f1941be8b93f10fa1145299dae69bc87b74d0fd23ce696fc7417e74a5892e88c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "2be28139da1fc46ac70e8dc66da42a44d2b9543bac39c8b8c946b1e5d998ca19"
+hash = "858db8cc6b976bfaf9a8995fc636d65f0c659e4d587151bf596f9c556523fa73"
 metafile = true
 
 [[files]]
 file = "resourcepacks/vanilla-mashup-pbr.pw.toml"
-hash = "5cc0f9c25510ae45d0071fb5122995659afeced8e83bb413d0eb40139275019a"
+hash = "f7cd7e20101e540ff2ea1a8dc783f1c60e96fff2e6ad5ec0ffe1f32c4e2fe9da"
 metafile = true
 
 [[files]]
 file = "resourcepacks/waystones-pbr.pw.toml"
-hash = "328c0e74b64f039b227664983efe27f67b3986667478b03ac1bfce4f4605172b"
+hash = "d8e43db1314e27487f5021c36a7c591973a23c67c1849d0cf1be1ad85fc7bda0"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "baaaab7e171990026e1793992b92fb4ff473d2a20691983d8814f3397800c4f2"
+hash = "8402a297ca107cd24cab32c9cdb1e62a66d51eb058268c1da4e5e2027d7605bf"
 metafile = true
